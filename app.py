@@ -56,8 +56,6 @@ except Exception:
     print("Warning: Could not load custom theme. Using default.")
     theme = None
 
-# Build the UI with Blocks
-# Note: We assign theme after initialization to avoid compatibility issues with some Gradio versions
 with gr.Blocks(title="IIT Jodhpur Academic Assistant") as demo:
     if theme:
         demo.theme = theme
