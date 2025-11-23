@@ -1,0 +1,1262 @@
+Source: http://intra.iitj.ac.in/acad_website/pg_curriculum/IDRP%20SMART%20HEALTHCARE_06092019.pdf
+================================================================================
+
+1 
+ 
+ 
+Indian Institute of Technology 
+Jodhpur 
+ 
+   
+ 
+ 
+ 
+ 
+PG Course Booklet 
+Indian Institute of Technology Jodhpur 
+July 2019 
+ 
+ 
+ 
+ 
+ 
+  
+
+2 
+ 
+ 
+ 
+ 
+Ph.D. Programme 
+ 
+In 
+ 
+Smart Healthcare 
+ 
+Inter Disciplinary Research Platform 
+ 
+  
+3 
+ 
+PhD program in IDRP Smart healthcare 
+1. Introduction: 
+The Smart Health Care IDRP aspires to create significant scientific and technological 
+advancements in the area of Healthcare by bringing together a multidisciplinary team of 
+scientists working in the interface of Biology, Chemistry, healthcare & Engineering. The 
+research is intended to focus on designing and developing sustainable solutions for 
+point-of-care health devices, drug discovery, affordable diagnostics, bio -compatible 
+implants, and remote health care, including telemedicine. The IDRP platform is expected 
+to support the development of various eHealth and mHealth based solutions for 
+improving the quality of healthcare and making it available to large segments of the 
+society. 
+ 
+2. The major objectives are: 
+ Augmenting existing methods for medical research using machine learning and 
+artificial intelligence based approaches 
+ Designing new and optimizing existing point-of-care health devices  
+ Identifying novel methods for early diagnosis and personalized treatments 
+ Creating a platform to use various electronic, mechanical, and bio -sensors for 
+improving the remote health care facilities  
+ 
+3. Expected Graduate Attributes 
+Graduates will 
+1. Be able to think critically and solve problems that are necessary for employment 
+in biomedical, biotechnology, pharmaceutical industries, National research labs 
+and Academic institutions at the global level. 
+2. Develop a sense of ownership on the National missions for technology 
+development, which will ca ter to societal needs in the area of affordable 
+healthcare. 
+3. Be exceptionally well trained in the laboratory enabling them to conduct high -
+quality, reproducible research. 
+4. Be able to read, understand and review intellectual property documents and 
+recognize their rights. 
+5. Be able to express their research ideas and present their data clearly in written 
+and spoken format. 
+6. Develop a strong work ethic and understand ethical considerations in biological 
+research, which are both necessary for high-quality research. 
+7. Develop healthy time management skills to plan and manage laboratory work as 
+well as other miscellaneous research -associated demands on their time to 
+effectively meet deadlines. 
+4 
+ 
+4.  Learning outcome: 
+Graduates will 
+• Be introduced to cutting -edge, interdisciplinary research areas like Diagnostics & 
+Therapeutics development, Machine learning and Artificial Intelligence for 
+healthcare, Novel drug development, Biomedical Instrumentation design,   
+Biomedical Imaging& Image processing, Systems & Syntheti c Biology, Biosensors 
+and Biomaterials Engineering. 
+• Be exposed to common problems that are prevalent in the domains of affordable 
+healthcare such as sustainable point of care diagnostic devices, personalized 
+medicine, remote healthcare, bioimaging for spec ific diagnosis, and medical 
+devices & implants  
+• Receive effective, hands -on laboratory training as a part of laboratory courses 
+and short -term research projects that are designed to teach research 
+methodology and common lab techniques. 
+• Be introduced to Pat ents and other intellectual property documents, the rights 
+that they grant and necessary considerations while filing patents / technology 
+that is protected by patents. 
+• Develop their research communication skills by participating in seminars, journal 
+clubs; manuscript writing and research grant writing workshops. 
+• Receive training on building a work ethic by being a part of research groups 
+working towards a common goal. Graduates will also appreciate the ethical and 
+safety considerations while conducting biomedical research. 
+• Be taught how to prioritize items on their schedule and how to budget time across 
+the spectrum of activities including research and other necessary tasks. 
+5. Essential Topic clouds 
+Drug  
+Development 
+Point of care 
+diagnostic device 
+Systems 
+Biology 
+Artificial 
+Intelligence & 
+Machine 
+learning 
+Biomedical 
+devices & 
+implants 
+Searching 
+Microbiomes for 
+novel antimicrobials 
+ 
+Organic synthesis 
+ 
+Drug screening & 
+testing 
+Sensor materials 
+ 
+Biomarkers 
+ 
+Biomolecular 
+interactions 
+ 
+Surface 
+Immuno-
+technology 
+ 
+Disease 
+processes 
+diagnostics 
+therapeutics 
+ 
+Synthetic Biology 
+Machine learning 
+Artificial 
+Intelligence 
+Tissue 
+engineering 
+ 
+Biomechanics 
+ 
+Artificial Organs 
+ 
+5 
+ 
+ 
+Animal Models 
+ 
+Personalized 
+medicine 
+ 
+AI for healthcare 
+ 
+ 
+ 
+functionalization 
+ 
+Sensor 
+development 
+ 
+Qualitative and 
+Quantitative Assay 
+ 
+Biosignals 
+ 
+Biosignal 
+Processing 
+ 
+Vaccine 
+development 
+ 
+Identification of 
+novel biomarkers 
+ 
+Understanding 
+disease 
+development 
+Biomaterials 
+ 
+ 
+ 
+6. Program Structure 
+Cat Course Title L-T-P Credits  Cat Course Title L-T-P Credits 
+I Semester   II Semester 
+PE Elective 1 3-0-0 3 
+ 
+PE Elective 1 3-0-0 3 
+PE 
+Elective 2 
+ 
+3-0-0 3 
+ 
+PE 
+Elective 2 
+ 
+3-0-0 3 
+PE Elective 3 3-0-0 3 
+ 
+PE Elective 3 3-0-0 3 
+PE Elective 3 3-0-0 3 
+ 
+PE Elective 3 3-0-0 3 
+         
+Total  12  Total (Graded + Non-graded) 12 
+III Semester  IV Semester 
+PE Elective 2-0-0 2      
+6 
+ 
+TH Thesis 0-0-
+20 10  TH Thesis 0-0-24 12 
+Total 12  Total 12 
+V Semester  VI Semester 
+TH Thesis 0-0-
+24 12  TH Thesis 0-0-24 12 
+Total 12  Total 12 
+VII Semester  VIII Semester 
+TH Thesis 0-0-4 2      
+Total  2    
+7. Credit Requirements for the degree 
+Credit requirements 
+Student with M Sc Students with M Tech Students with B Tech 
+Course work credits 30 
+Thesis 48 
+ 
+Course work 12 
+Thesis 48 
+Course work credits 30 
+Thesis 48 
+ 
+ 
+ 
+ 
+  
+7 
+ 
+Courses 
+(In addition to the courses mentioned below, a student can opt for any course floated in other IDRP 
+programs relevant to the thesis) 
+ 
+Title Software and Data Engineering Number CSL7XX0 
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3] 
+Offered for M.Tech.  Type Compulsory 
+Prerequisite    
+ 
+Objectives  
+The Instructor will: 
+1.  Discuss techniques to manage a large amount of data 
+2.  Provide mechanisms to design and develop data-intensive computing systems 
+ 
+Learning Outcomes  
+     The students are expected to have the ability to: 
+1.  Design complex end-to-end data pipeline for data processing 
+2.  Critically identify and use the tools for data handling and management 
+3.  Use modern software technologies to design and develop data analytical systems 
+ 
+ 
+Contents 
+CSL7XX0Cloud Computing and Virtualization 1-0-0 [1] 
+Basics of complex software design: Concept of modular software, microservices, 
+communication, 4+1 architectural views and patterns (5 lectures) 
+Cloud Computing: Architecture of cluster computing, design of data centers, open data center 
+platforms, fault-tolerant system design (5 lectures) 
+Virtualization: Type-1 and Type-2 virtualization, virtual machine, containers, dockers (4 
+lectures)  
+CSL7XX0Data Management 1-0-0 [1] 
+Data Management: Structured data, relational database management, unstructured data, 
+semi-structured data,  Nosql database management (mongodb), column database, graph 
+database, XML, JSON, HDFS, Handling drift in data, sensor data reliability at software and 
+algorithmic level, sensor data analysis techniques (14 lectures)  
+CSL7XX0Data Intensive Processing Systems 1-0-0 [1] 
+Data Intensive Processing Systems: Architecture of large scale data processing systems, 
+Hadoop, Apache Spark, Storm, parallel data processing concepts such as map-reduce, directed 
+acyclic graph, resilient distributed datasets, dynamic resource allocation, partial & shared 
+computation, storage architecture  (14 lectures) 
+ 
+Textbook  
+1.  Bass L., Clements P., Kazman R., (2012), Software Architecture in Practice, 3rd edition, 
+Addison-Wesley Professional 
+2.  Martin K., (2017), Designing Data-Intensive Applications: The Big Ideas Behind Reliable, 
+Scalable, and Maintainable Systems, 1st Edition,O'Reilly Media 
+ 
+Self Learning Material  
+1.  Tylor,R.N., Medvidovic,N. and Dashofy,E.M., (2014), Software Architecture Foundation: 
+Theory and Practice, Wiley  
+ 
+Preparatory Course Material 
+1. IEEE Transactions on Knowledge and Data Engineering 
+2. International Conference on Data Engineering  
+ 
+8 
+ 
+ 
+Title Algorithms for Big Data Number CSL7XX0 
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2] 
+Offered for M.Tech. 1st Year, Ph.D. 1st Year  Type Compulsory  
+Prerequisite None   
+ 
+Objectives  
+     The Instructor will:  
+1.  Introduce some algorithmic techniques developed for handling large amounts of data.  
+2.  Emphasize on both theoretical as well as practical aspects of such algorithms.  
+Learning Outcomes  
+     The students are expected to have the ability to:  
+1.  Analyze existing algorithms as well as design novel algorithms pertaining to big data.  
+ 
+Contents 
+Sketching and Streaming: Extremely small-space data structures(4 lectures)  
+ 
+Numerical linear algebra:  Algorithms for big matrices, Regression, Low -rank a pproximation, 
+Matrix completion (8 lectures)  
+ 
+Compressed Sensing: Sparse signals, Linear measurements, Signal recovery (8 lectures)  
+ 
+External memory and cache -obliviousness: Minimizing I/O for large datasets, Algorithms and 
+data structures such as B-trees, Buffer trees, Multiway mergesort (8 lectures)  
+ 
+Reference Books  
+Markovsky I, (2014), Low Rank Approximation: Algorithms, Implementation, Applications, 
+Springer 
+Eldar Y C., Kutyniok G. (2012), Compressed Sensing: Theory and Applications, Cambridge 
+University Press.  
+ 
+Self Learning Material 
+1.   Department of Computer Science, Harvard University, Algorithms for Big Data 
+ 
+ 
+ 
+ 
+  
+9 
+ 
+Title Machine Learning-1 Number CSL7XX0 
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3] 
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory 
+Prerequisite None    
+ 
+Objectives  
+     The Instructor will: 
+1.  Provide motivation and understanding of the need and importance of Machine Learning 
+in today’s world  
+2.  Provide details about various algorithms in Machine Learning  
+ 
+Learning Outcomes  
+The students are expected to have the ability to: 
+1. Develop a sense of Machine Learning in the modern context, and independently work   
+on problems relating to Machine Learning  
+2. Design and program efficient algorithms related to Machine Learning, train models,  
+conduct experiments, and deliver ML-based applications  
+ 
+Contents  
+ 
+CSL7XX1: Introduction to Machine Learning: Supervised Learning 1-0-0[1] 
+Introduction: Motivation, Different types of learning, Linear regression, Logistic regression (2 
+lectures)  
+Gradient Descent:  Introduction, Stochastic Gradi ent Descent, Subgradients, Stochastic 
+Gradient Descent for risk minimization (2 lectures)  
+Support Vector Machines:  Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick, 
+Implementing Soft SVM with Kernels (4 lectures)  
+Decision Trees: Decision Tree algorithms, Random forests (2 lectures)  
+Neural Networks: Feedforward neural networks, Expressive power of neural networks, SGD 
+and Backpropagation (3 lectures)  
+Model selection and validation: Validation for model selection, k-fold cross-validation, Training-
+Validation-Testing split, Regularized loss minimization (1 lectures)  
+ 
+CSL7XX2: Introduction to Machine Learning: Unsupervised Learning and Generative 
+Models 1-0-0[1] 
+Nearest Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)  
+Clustering: Linkage-based clustering algorithms, k -means algorithm, Spectral clustering (3 
+lectures)  
+Dimensionality reduction:  Principal Component Analysis, Random projections, Compressed 
+sensing (2 lectures)  
+Generative Models: Maximum likelihood estimat or, Naive Bayes, Linear Discriminant Analysis, 
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)  
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning 
+(3 lectures)  
+CSL7XX3: In troduction to Machine Learning: Computational Learning Theory and 
+Deep Learning 1-0-0[1] 
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias -complexity tradeoff, 
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)  
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)  
+Textbook 
+1. Shalev -Shwartz,S., Ben -David,S., (2014), Understanding Machine Learning: From 
+Theory to Algorithms, Cambridge University Press  
+ 
+Reference Books  
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill  
+ 
+ 
+Self Learning Material  
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.   Department of Computer Science, Stanford University,  
+      https://see.stanford.edu/Course/CS229  
+11 
+ 
+Title Machine Learning II Number CSL8XX0 
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3] 
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory 
+Prerequisite Machine Learning-1   
+ 
+Objectives  
+     The Instructor will: 
+1.  Provide technical details about various recent algorithms and software platforms related 
+to Machine Learning with specific focus on Deep Learning.  
+ 
+Learning Outcomes  
+The students are expected to have the ability to: 
+1.   Design and program efficient algorithms related to recent machine learning techniques,  
+      train models, conduct experiments, and develop real-world ML-based applications and 
+      products   
+ 
+Contents  
+CSL7XX1: Machine Learning II: Introduction to Deep Learning 1-0-0[1] 
+Model Search: Optimization, Regularization, AutoML (4 lectures)  
+Deep Networks: Attention layers, Gated CNNs, Graph Neural Networks (8 lectures)  
+Applications: Neural language models (2 lectures)  
+ 
+CSL7XX2: Machine Learning II: Representation Learning & Structured Models 1 -0-
+0[1] 
+Representation Learning: Unsupervised pre-training, transfer learning and domain adaptation, 
+distributed representation, discovering underlying causes (7 lectures)  
+Structured models:  learning about depe ndencies, inference and approximate inference, 
+sampling and Monte Carlo Methods, Importance Sampling, Gibbs Sampling, Partition Function, 
+MAP inference and Sparse Coding, Variational Inference (7 lectures)  
+ 
+CSL7XX3: Machine Learning II: Deep Generative Models 1-0-0[1] 
+Deep Generative Models: Deep Belief Networks, Variational Autoencoder, Generative 
+Adversarial Network (GAN), Deep Convolutional GAN, Autoencoder GANs, iGAN, pix2pix, 
+CycleGAN, Conditional GANs, StackGAN (14 lectures)  
+ 
+Laboratory Experiments 
+Overview of Deep Learning platforms such Tensorflow and PyTorch.  
+ 
+Textbook 
+1.Goodfellow,I., Bengio.,Y., and Courville,A., (2016), Deep Learning, The MIT Press  
+ 
+Reference Books  
+1. Charniak, E. (2019), Introduction to deep learning, The MIT Press.  
+ 
+Self Learning Material 
+1.   https://www.deeplearningbook.org/ 
+  
+12 
+ 
+ 
+Title Artificial Intelligence I Number CSL7XX0 
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3] 
+Offered for M.Tech. 1st Year, Ph.D. 1st Year  Type Compulsory  
+Prerequisite None   
+ 
+Objectives  
+     The Instructor will: 
+1.  Cover various paradigms that come under the broad umbrella of AI. 
+ 
+ 
+Learning Outcomes  
+The students are expected to have the ability to:  
+1.  Develop an understanding of where and how AI can be used. 
+ 
+Contents 
+Introduction (1 lecture)  
+Propositional logic (8 lectures)  
+Search: Uninformed strategies (BFS, DFS, Dijkstra), Informed strategies (A* search, heuristic  
+functions, hill-climbing), Adversarial search (Minimax algorithm, Alpha-beta pruning) (10  
+lectures)  
+Predicate logic: Knowledge representation, Resolution (6 lectures)  
+Rule-based systems: Natural language parsing, Context free grammar (3 lectures)  
+Constraint satisfaction problems (4 lectures)  
+Planning: State space search, Planning Graphs, Partial order planning (4 lectures)  
+Uncertain Reasoning: Probabilistic reasoning, Bayesian Networks, Dempster-Shafer theory,  
+Fuzzy logic (6 lectures)  
+ 
+Textbook  
+1.Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition,  
+      Prentice Hall 
+ 
+Reference Books  
+1. Research literature  
+ 
+Self Learning Material  
+1.   Department of Computer Science, University of California, Berkeley,  
+http://www.youtube.com/playlist?list=PLD52D2B739E4D1C5F 
+2.   NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/ 
+ 
+  
+13 
+ 
+Title Artificial Intelligence II Number CSL8XX0 
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3] 
+Offered for M.Tech. 1st Year, Ph.D. 1st Year  Type Compulsory 
+Prerequisite Artificial Intelligence-1   
+ 
+Objectives  
+     The Instructor will: 
+1.  Cover modern paradigms of AI that go beyond traditional learning.  
+ 
+Learning Outcomes  
+     The students are expected to have the ability to:  
+1.  Develop an understanding of modern concepts in AI and where they can be used. 
+2.  Design, implement and apply novel AI techniques based on emerging real-world  
+     requirements. 
+ 
+Contents 
+CSL8XX1: Artificial Intelligence: Probabilistic Reasoning and Knowledge 
+Representation 1-0-0[1] 
+Probabilistic Reasoning over time: Hidden Markov Models, Kalman Filters, Dynamic  
+Bayesian Networks (7 lectures)  
+Knowledge Representation: Ontological engineering, Semantic Networks, Description Logics  
+(7 lectures)  
+ 
+CSL8XX1: Artificial Intelligence: Making Decisions 1-0-0[1] 
+Making decisions: Utility theory, utility functions, decision networks, sequential  
+decision problems, Partially Observable MDPs, Game Theory (14 lectures)  
+ 
+CSL8XX1: Artificial Intelligence: Reinforcement Learning 1-0-0[1] 
+Reinforcement Learning: Passive RL, Active RL, Generalization in RL, Policy 
+Search, Deep Reinforcement Learning (14 lectures)  
+ 
+Textbook  
+1.Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition,  
+      Prentice Hall 
+ 
+Reference Books  
+1. Yang, Q. (1997), Intelligent Planning: A decomposition and abstraction based approach, 
+Springer Verlag, Berlin Heidelberg.  
+ 
+  
+14 
+ 
+Title Mechanical Behavior of Materials Number MTL7320 
+Department Metallurgical and Materials Engineering L-T-P-D [C] 3–0–2-0 
+[4] 
+Offered for M.Tech. and Ph.D. Type Elective  
+Prerequisite None   
+ 
+Objectives 
+1. To provide background on the mechanisms of deformation in engineering materials, 
+and on the evolution of material microstructure when subjected to mechanical 
+stress during materials processing and engineering applications 
+ 
+Learning Outcomes 
+1. Ability to design materials with improved mechanical properties and identify failure 
+mechanisms in materials for engineering applications 
+2. To measure important mechanical properties and correlate with the microstructure 
+ 
+Contents 
+Continuum Theory of Deformation: 3D-state of stress and strain, Mohr’s Circle, Generalized 
+Hooke’s Law and introductory theory of elasticity, stress and strain invariants, Yield 
+Criteria, Yield surface and normality (6 lectures) 
+Defects in Crystals:  Vacancies and interstitials, edge, screw and mixed dislocations, 
+Burgers vector, slip, cross -slip and climb, stress fields around edge and screw 
+dislocations, strain energy of dislocations, dislocation -dislocation interaction: Peach -
+Koehler force on dislocation, image forces, dislocations in different crystal structures (10 
+lectures) 
+Twinning in Crystalline Solids:  Deformation twinning, geometry of twin formation, twin 
+shape, stress requirement for twinning, twinning in HCP, BCC, and FCC crystals (4 
+lectures) 
+Fracture and Toughening Mechanisms: Theoretical fracture strength of a material and 
+Griffith’s Law, modes of fracture, fracture toughness, G and R -curve, brittle and ductile 
+fracture, toughening mechanisms in metals, ceramics, and polymers (8 lectures) 
+Fatigue and Creep: Introduction to fatigue, stress and strain -life approach, cyclic stress -
+strain curve, fatigue crack propagation, high temperature deformation, fatigue -creep 
+interaction (8 lectures) 
+Deformation of Polymers: Elasticity in dilute and semi -dilute polymer networks, nonlinear 
+elastic deformation, rubber elasticity: Mooney-Rivlin and Ogden models (6 lectures) 
+Laboratory Experiments 
+Measurement of uniaxial monotonic stress -strain response of metals, ceramics, and polymers, 
+Measurement of hardne ss via spherical and Vickers indentation and correlation with yield 
+strength for ductile and brittle materials, The effect of grain size on mechanical properties, The 
+effects of strain rate and temperature on yield strength, Recrystallization of cold rolle d metals, 
+Measurement of impact fracture toughness using Charpy/Izod impact test, Fracture surface 
+interpretation,  Creep of a 60%Sn-40%Pb Solder wire at room temperature. 
+Text Books 
+1. Dieter, G.E. (1986), Mechanical Metallurgy, 3rd Edition, McGraw-Hill Book Company. 
+2. Courtney, T. H., (2005), Mechanical Behaviour of Materials , 2nd Edition, Waveland 
+Press Inc. 
+3. Shetty, M. N., (2013), Dislocations and Mechanical Behavior of Materials , Prentice 
+Hall India Learning Private Limited 
+ 
+Self-Learning Materials 
+1. Hertzberg, R.W., (1976), Deformation and Fracture Mechanics of Engineering 
+Materials, John Wiley and Sons 
+2. McClintock,F.A., and Argon,A.S., (1966), Mechanical Behavior of Materials , Addison-
+Wesley. 
+ 
+15 
+ 
+Title Frontiers  in Organic Chemistry Number CYL7XX0 
+Department Chemistry L-T-P [C] 3-0-0 [3] 
+Offered for  Type Elective 
+Pre-requisite    
+ 
+Objectives 
+The Instructor will: 
+1. Give an in-depth exposure to the latest advances in organic synthesis 
+2. Inculcating in students a research-oriented approach towards solving synthetic organic 
+chemistry problems 
+ 
+Learning Outcomes 
+The students are expected to: 
+1. Advance their knowledge in strategizing and synthesis of complex organic compounds  
+2. Systematically read, understand and interpret the research reported in journals 
+3. Develop skills of scientific presentations and interpersonal skills  
+ 
+Contents 
+Protecting Group: Selectivity and requirement of protecting groups, protecting groups and 
+their deprotection (5 lectures) 
+Advanced Radical Chemistry: Radical substitution reactions, coupling reactions, radical 
+mediated cyclizations, addition reaction involving radicals, radical chain reactions (5 
+lectures) 
+Cycloaddition Reactions: 1,3-dipolar cycloadditions, higher order cycloadditions, asymmetric 
+cycloadditions. (5 lectures) 
+Advanced Enolate Chemistry: Diastereoselective aldol reactions, Evan’s chiral auxiliary, 
+Ender’s chiral auxiliary, diastereofacial selectivity, asymmetric aldol reactions, 
+Organocatalyzed aldol reactions (7 lectures) 
+Total synthesis of complex molecules: total synthesis of penicillin, estrone, sparteine, 
+prostaglandins, synthesis of important pharmaceuticals (12 lectures) 
+C-H functionalization and C-H activation: Transition metal free reactions, Pd, Cu, Rh  
+catalyzed C-H activation reactions, remote C-H functionalization and activation reactions (8 
+lectures) 
+ 
+Text books 
+1. Carriera, E.M., and Kvaerno,L., (2009), Classics in Stereoselective synthesis, Wiley-VCH 
+2. Kurti,L., Czako,B., (2005), Strategic Applications of Named Reactions in Organic 
+Synthesis, Elsevier 
+3. Carey,F.A., Sundberg,R.J., (2007), Advanced Organic Chemistry, Part B: Reactions and 
+Synthesis, 5th Edition, Plenum 
+ 
+Reference books  
+1. Hudlicky,T., and Reed,J.W., (2007) The Way of Synthesis, Wiley-VCH 
+2. Nicolaou,K.C., and Snyder,S.A., (2003), Classics in Total Synthesis-II: Further Targets, 
+Strategies, Methods, Wiley-VCH 
+ 
+Self Learning Material 
+1. Punniyamurthy,T., Catalytic Asymmetric Synthesis, NPTEL Course Material, Department 
+of Chemistry, Indian Institute of Technology Guwahati, 
+http://nptel.ac.in/courses/104103067/ 
+ 
+  
+16 
+ 
+Title Theory and Applications of 
+Spectroscopic Techniques  
+Number CYL6XX0 
+Department Chemistry L-T-P [C] 3–0–0 [3] 
+Offered for  Type Compulsory 
+ 
+Objectives 
+ 
+The Instructor will: 
+1. Introduce to theoretical background of spectroscopic methods along with their 
+instrumentation and application.  
+2. Enable students to use such methods whenever needed by giving hands on experience 
+with available instruments in the institute. 
+ 
+Learning Outcomes 
+ 
+The students are expected to: 
+1. Apply spectroscopic methods as analytical tool in chemistry, biology, material science, 
+medicine. 
+2. Operate various spectrometers available in the institute. 
+ 
+Contents 
+ 
+CYL6XX1: Electronic Spectroscopy [1-0-0] 
+Properties of electromagnetic radiation, interaction of radiation with matter, Stimulated and 
+Spontaneous processes, Einstein coefficient, Rabi Oscillation, intensity of spectral line and line 
+shape, Fourier Transformation, General understanding of spectroscopic selection rule. UV-vis and 
+Fluorescence Spectroscopy: Basic principles, Laws of photochemistry, Jablonski diagram, Frank -
+Condon principle, quantum yield expression and Stern-Volmer equation, FRET. (14 lectures) 
+ 
+CYL6XX2: Infrared and Raman Spectroscopy [1-0-0] 
+Basic principle; Organic functional group identification through IR spectroscopy, IR and Raman 
+activity. (14 lectures) 
+ 
+CYL6XX3: NMR and EPR Spectroscopy [1-0-0] 
+NMR Spectroscopy: Basic principle, Zeeman splitting, chemical shift and spin-spin coupling, 
+introduction to AB, AX, AMX spin system, 1D 1H and 13C NMR for structure elucidation, 
+Polarization transfer methods and NOE. EPR Spectroscopy: basic principle, Electron-nuclear 
+hyperfine interaction, theory of first order EPR spectra, analysis of 1st Order spectra, example of 
+EPR spectra of organic radicals and transition metal complexes.  (14 lectures) 
+ 
+Textbooks 
+1. Gunther, H., (1995), NMR Spectroscopy, 2nd Edition, Wiley 
+2. Banwell, C. N., (1994), Fundamentals of Molecular Spectroscopy, 3rd Edition, Tata 
+McGraw-Hill Book Company 
+3. Lakowicz, J. R., (2006), Principles of Fluorescence Spectroscopy, 3rd Edition, Springer, 
+New York 
+ 
+Reference Books 
+1.Bernath, P. F., (2005), Spectra of Atoms and Molecules, 2nd Edition, Oxford University 
+Press 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2.Silverstein, R. M. and Webster, F. M., (2010), Spectroscopic Identification of Organic 
+Compounds, 6th Edition, Wiley 
+ 
+Self Learning Material 
+1. Mangal Sundar, K.,  Introduction to Quantum Chemistry and Molecular Spectroscopy, 
+http:// http://nptel.ac.in/courses/104106083 
+2. Trivedi, V. and Chaudhary, N., Bioanalytical Techniques and Bioinformatics, Department 
+of Biotechnology, http:// http://nptel.ac.in/courses/ 102103044. 
+3. Das, R., Principles and Applications of Electron Paramagnetic Resonance Spectroscopy, 
+Department of Chemical Sciences, https://nptel.ac.in/courses/104106048/2 
+18 
+ 
+ 
+Title Principles of Drug Discovery Number BBL7XX1 
+CSL7XX1 
+CSL7XX2 
+Department Bioscience & Bioengineering and Computer 
+Science and engineering 
+L-T-P [C] 3-0-0 [2] 
+Offered for M.Tech Type Elective  
+Prerequisite None   
+ 
+Objective 
+The Instructor will: 
+1. focus on route of drug design and discovery 
+Learning Outcome 
+The students are expected to have the ability to: 
+1. understand the principles of drug design and development 
+Contents 
+BBL7XX1: Principles of Drug Discovery [1-0-0] 
+(fractal 1)drug targets, pharmacokinetics, administration and dosing, drug testing: in 
+vivo and in vitro, drug discovery: natural lead, synthetic lead, combinatorial 
+synthesis, pharmacokinetics based drug design, chemical development, process 
+development, toxicology, pharmacology, drug metabolism, clinical trials, 
+commercialization (14 lectures) 
+CSL7XX0: Machine Learning-1 [2-0-0] 
+(fractal 2) introduction, gradient descent, support vector machines, decision trees, 
+neural networks (14 lectures) 
+(fractal 3) nearest neighbour, clustering, dimensionality reduction, generative 
+models, feature selection and generation (14 lectures) 
+Textbook 
+1. Stromgaard,K., Krogsgaard-Larsen,P., Madsen,U., Drug Design and Discovery, 5th 
+Edition, CRC Press  
+Self-Learning Material  
+1. Department of Computer Science, Stanford University 
+https://see.stanford.edu/Course/CS229 
+ 
+19 
+ 
+Title Introductory Chemical Biology Number BBL7XX0 
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3] 
+Offered for M.Tech Type Elective  
+Prerequisite None   
+Objective 
+The Instructor will: 
+1. build fundamental concept of interdisciplinary science, specially chemical biology 
+ 
+Learning Outcome 
+The students are expected to have the ability to: 
+1. Understand the importance of interdisciplinary sciences and its applications in 
+bioengineering fields 
+ 
+Contents 
+Introduction: background and definition of chemical biology, overview of chemical biology, 
+allied fields and their link with chemical biology, overview of protein structure and 
+protein-protein interactions (14 lectures) 
+Biomolecular-drug interaction: key discoveries in the field of chemical biology, few 
+examples and journey through those discoveries, the use of unusual amino acids to probe 
+biomolecular conformation, the use of novel fluorescence probe and applications, sirna as 
+therapeutics, small molecule kinase inhibitors, gtp analogues as potential regulators for 
+microtubule dynamics (14 lectures) 
+Imaging: applications of small molecule as a probe for in vivo imaging, chemical tools for 
+perturbation of protein-protein interactions, chemical platforms for protein-protein and 
+protein-nucleic acid interactions (14 lectures) 
+Textbook 
+1. Chemical Biology: From Small Molecules to Systems Biology and Drug Design (Willey), 
+Editor(s): Profs. Stuart L. Schreiber, Tarun M. Kapoor and Günther Wess 
+Nature Chemical Biology, 2010, 6, 847-853 
+Self Learning Material  
+None 
+ 
+ 
+ 
+20 
+ 
+Title Algorithms in Biology Number BBL7XX0 
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3] 
+Offered for M.Tech Type Elective  
+Prerequisite Nil   
+Objectives:  
+1. To  develop  an  understanding of  the  main  algorithmic   approaches  used  in  solving 
+computational problems that arise in the analysis of biomolecular data (such as 
+DNA/RNA/amino acid sequences, mass spectra of proteins, whole genomes, or gene 
+expression levels). 
+Learning outcomes:  
+The students are expected to: 
+1.  Understand various algorithms related to biological data analysis.  
+2.  Develop new efficient algorithm to solve biological data. 
+Contents 
+Algorithms and Complexity: What is an algorithm?, Biological Algorithm versus Computer 
+Algorithms, The change problem, Correct versus Incorrect Algorithms, Recursive 
+Algorithms, Iterative versus Recursive Algorithms, Fast vs Slow Algorithms, Big -O 
+Notation, Algorithm Design Techniq ues, Tractable versus Intractable Problems (10 
+lectures) 
+Greedy Algorithms:  Genome Rearrangements, Sorting by Reversals, Approximation 
+Algorithms, Breakpoint: A different face of greed, A greedy approach to motif finding (10 
+lectures) 
+Dynamic programming algorithms: The power of DNA sequence comparison, the change 
+problem revisited, the manhattan tourist problem, edit distance and alignments, longest 
+common subsequences, global sequence alignment, local sequence alignment, alignment 
+and gap penalties, multiple alignment, gene prediction. (10 lectures) 
+Clustering and Trees:  Gene expression analysis, Hierarchical Clustering, k-means 
+clustering, clustering and corrupted cliques, evolutionary trees, distance based tree 
+reconstruction, Evolutionary trees and hie rarchical clustering, small parsimony problem, 
+large parsimony problem (7 lectures) 
+Gene selection algorithms: SAM, eBayes, Limma, CFS, mRMR, MRMS [5 lectures] 
+Textbook 
+1. Jones N. C. ,Pevzner   P. A.  (2014), An Introduction to Bioinformatics Algorithms, MIT 
+Press 
+Reference Books 1. Mitra S. and Acharya T. (2003), Data Mining: Multimedia, Soft 
+Computing, and Bioinformatics, New York: John Wiley 
+1.  Mitra S., Datta S., Perkins T. and Michailidis G. (2008), Introduction to Machine 
+Learning and Bioinformatics, New York: Chapman & Hall/CRC Press. 
+ 
+21 
+ 
+Title Microbes as sensors Number BBL7XX0 
+Department Bioscience and Bioengineering L-T-P [C] 1-0-0 [1] 
+Offered for  Type Compulsory 
+Prerequisite    
+ 
+Objectives 
+1. The instructor will discuss the methods by which living microbes can be used as 
+sensors. 
+ 
+Learning Outcomes 
+1. Students will have an ability to design live microbial based biosensors for 
+sensing specific pollutants, marker for environment and/or health monitoring 
+Contents 
+Introduction: Advantages of using microbes as sensors, physical and chemical 
+methods of microbial, immobilization. (4 lectures) 
+Electrochemical microbial biosensor: Amperometric, potentiometric and 
+conductimetric (5 lectures) 
+Optical biosensors; bioluminescence, fluore scence, and calorimet ric based sensors 
+(2 lectures). 
+Metabolism based: Microbial sensors based on analysis of oxygen reduction rate or 
+carbon di oxide production rate. (3 lectures) 
+ Textbook 
+No textbook. The research papers will serve as the reading materi al and reference 
+material 
+Reference Books 
+1. Brock, et al., (2012), Biology of Microorganisms, 13 th edition Ben,jamin 
+Cummings, Boston, MA. 
+ 
+Online course material 
+None 
+ 
+ 
+22 
+ 
+Title Immunodiagnostics and therapeutics Number  BBL7XX0 
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3] 
+Offered for M.Tech. (MT) Program Type Elective 
+ 
+Objectives 
+The Instructor will: 
+1. Provide an introduction to fundamentals techniques of clinical immunology and Immune 
+based Diagnostics 
+ 
+Learning Outcomes 
+The students are expected to have the ability to: 
+1. Immunology based diagnostics techniques for to create and 22nalyse diagnostics 
+Contents 
+Immunodiagnostics [14 lectures]: Selection of animals for immunological assays, 
+Preparation of antigens, Immunization and methods of ble eding, Serum separation, 
+Storage. Antibody titre by ELISA method. Double diffusion, Immuno -electrophoresis 
+and Radial Immuno diffusion. Complement fixation test. Hybridoma technology and 
+monoclonal antibody production. Lymphoproliferation by mitogen / antigen. 
+Immunotherapeutics[14 lectures]: Active and passive immunization; Live, killed, 
+attenuated, sub unit vaccines; Vaccine technology - Role and properties of adjuvants, 
+recombinant DNA and protein based vaccines, plant -based vaccines, reverse 
+vaccinology; Peptide vaccines, conjugate vaccines; Antibody genes and antibody 
+engineering- chimeric and hybrid monoclonal antibodies; Catalytic antibodies and 
+generation of immunoglobulin gene libraries 
+Laboratory Experiments [12 experiments]: 
+Immunoblotting for specific antigens, Dot blot assay, Blood smear identification of leucocytes 
+by Giemsa stain. Quantification of Phagocytic activity, Separation of mononuclear cells by 
+Ficoll-Hypaque. Immunohistochemistry (direct and indirect peroxidase assay), detection of 
+Salmonella genus which causes enteric or Typhoid Fever by using qualitative slide 
+agglutination test (Widal test), Detection of Treponemes responsible for veneral diseases such 
+as  syphilis (VDRL) test, IgG Purification technique (Protein A Based, Spin Column) 
+Textbook 
+1.  R.A. Goldsby., Thomas,J.K., and Barbara,A, Osborne., Kuby Immunology, 
+Freeman,2002, 6th Edition 
+23 
+ 
+2. Stanier, R. Y., General Microbiology, W.H. Freeman and Co., 2009. 
+3. Pelczar, M.J., Chan, E. C. S., Krieg, N.R., Microbiology, Tata McGraw – Hill Education, 2001 
+Reference Books 
+1. Murphy, K., Travers, P., Walport, M., & Janeway, C. (2012). Janeway’s Immunobiology. 
+New York: Garland Science. 
+2. Madigan, M.T.,  Martinko, J.M.,  Brock, Biology of Microorganisms, Prentice-Hall, Inc., 
+2006, 11th  Edition. 
+Online Course Material 
+1 NPTEL Video Lectures on  Essentials in Immunology by Prof. R. Manjunath, Prof. 
+Dipankar Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore  
+(http://nptel.ac.in/courses/104108055/) 
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar, 
+Indian Institute of Technology Guwahati  (http://nptel.ac.in/courses/102103038/)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+24 
+ 
+ 
+Title Flux Balance Analysis Number BBL7XX0 
+Department Bioscience and Bioengineering L-T-P 
+[C] 
+3–0–0[3] 
+Offered for M.Tech Type Elective  
+Prerequisite Nil   
+Objectives 
+The Instructor will: 
+1. Provide an introduction to flux balance analysis (FBA), reactions,  metabolites, & pathways, 
+mass balanced linear equations, biomass reaction, how to create a stoichiometric matrix from 
+reactions and metabolites, gene-protein-reaction associations, constraint-based modeling. 
+Learning Outcomes 
+The students are expected to have the ability to: 
+1. Implement knowledge of important concepts related to the FBA 
+2. To apply them to model the behavior of biological systems as well as develop st rategies for 
+manipulating them. 
+Contents 
+Flux Balance Analysis Overview: Overview, Formulation of Flux Balance Analysis [1 Lecture] 
+Reactions, Metabolites, & Pathways:  Identifying Metabolic Reactions and Metabolites (Gene -
+Protein-Reactions), Desired Reaction Information, Genome -scale Reconstruction Reactions, 
+Desired Metabolite Information, Genome -scale Reconstruction Metabolites, Metabolic Pathway, 
+System Boundaries:Exchange & Transport Reactions, Genome -scale Metabolic Reconstructions, 
+Reconstruction Process: 96 Step Protocol, E.coli Core Model [14 Lectures] 
+Mathematical Representation of Reactions & Constraints:  Creating A Stoichiometric Matrix, 
+Genome-scale Metabolic Reconstruction [2 Lectures] 
+Mass Balanced Linear Equations:  How can we use the Stoichiometric Matrix?, Dynamic Mass 
+Balance, The Conceptual Basis of Constraint -based Modeling, Role of Constraints, Flux 
+Optimization [6 Lectures] 
+Biomass Reaction:  Biomass Precursors, E.coli Precursor Metabolites, Maintenance Energy 
+Requirements, Biomass Reaction For E.coli Core Model, Biomass Objective Function, Formulation 
+of Flux Balance Analysis, E.coli Core Model [8 Lectures] 
+Calculating Fluxes:  Cobra Toolbox, Matlab, Drawing Flux Values on a Map, Print Flux Values, 
+Examples [8 Lectures] 
+Flux Balance Analysis Toolbox:  Methods in Constraint -based Reconstruction and Analysis [3 
+Lectures] 
+25 
+ 
+ 
+Textbook 
+1.Palsson B. O., (2006), Systems Biology: Properties of Reconstru cted Networks, cambridge 
+Press. 
+Self Learning Material 
+1. Utah State University, https://systemsbiology.usu.edu/syllabus.php 
+Preparatory Course Material 
+1. Department of Biotechnology, Indian Institute of Technology Madras, 
+https://nptel.ac.in/noc/individual_course.php?id=noc18-bt22 
+  
+26 
+ 
+Title Systems Biology in Personalized Genomics Number BBL7XX0 
+Department Bioscience and Bioengineering L-T-P 
+[C] 
+3–0–0[3] 
+Offered for M.Tech Type Elective  
+Prerequisite Nil   
+Objectives 
+The Instructor will: 
+1. Illustrate “big-data” problems in personalized genomics by discussing recent publications 
+2. Provide training in high dimensional biological data analysis 
+3. Familiarize the participants with the use of statistical tools and principles for an alyzing 
+genomic/epigenomic data 
+Learning Outcomes 
+It will enable participants to utilize th e methods presented in this course for analyzing biological 
+data. The course introduces the current research challenges faced in the field of  computational 
+systems biology. 
+Contents 
+Course Overview and Introduction:  Design Principles of Complex Systems, Introduction to 
+Genomics and Systems Biology [2 lectures] 
+Topological and Network Evolution Models:  Small-World and Scale -Free Networks, Duplication -
+Divergence, Complex Models of Network Evolution, Network Properties of Biological Networks [6 
+lectures] 
+Types of Biological Networks:  Types of Biological Networks, Genes2Networks and Network 
+Visualization, Sets2Networks - Creating Functional Association Networks, Genes2FANs - Analyzing 
+Gene Lists with Functional Association Networks [4 lectures] 
+Data Processing and Identifying Differentially Expressed Genes:  Data Normalization, Univariate 
+and multivariate methods for identifying differentially expressed gene sets  - Part 1, Univariate 
+methods (SAM, Welch’s t -test, LIMMA,) - Part 2, Multivariate method (Principal Component 
+Analysis; Gene Set Enrichment Analysis; Supervised and unsupervised machine learning for data 
+classification, including Clustering, SVM and KNN) [15 lectures] 
+Analytical Tools for Genomics:  Enrichment Analysis and Enrichr, GEO2Enrichr: A Google Chrome 
+Extension for Gene Set Extraction and Enrichment, Gene Set Enrichment Analysis (GSEA) - 
+Preliminaries, Gene Set Enrichment Analysis (GSEA), Principal Angle Enrichment Analysis (PAEA), 
+Network2Canvas (N2C) and E nrichment Analysis with N2C, Expression2Kinases: Inferring 
+Pathways from Differentially Expressed Genes, DrugPairSeeker and the New CMAP, Classifying 
+Patients/Tumors from TCGA [15lectures] 
+ 
+27 
+ 
+Textbook 
+1.    Ma'ayan A. and MacArthur B. D. (eds.) (2012), New Frontiers of Network Analysis in Systems 
+Biology, Springer. 
+Reference Books 
+Research literature 
+Self learning materials 
+1. Mount Sinai Center for Bioinformatics, https://www.coursera.org/learn/network-biology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+Title Artificial Intelligence in Bioengineering 
+Lab 
+Number BBP7XX0 
+Department Bioscience & Bioengineering L-T-P [C] 0-0-2 [1] 
+Offered for  Type Open 
+Elective  
+Prerequisite Machine Learning-1   
+Objective: 
+The instructor will: 
+1. prepare industry relevant advanced cross -disciplinary skills in machine learning 
+applications in bioengineering. 
+Learning Outcome 
+The students will have an ability to: 
+1. comprehend fundamental concepts and hands-on techniques of the state -of-the-
+art data science and deep learning methodologies 
+2. apply popular unsupervised learning methods, including clustering methodologies 
+and supervised methods such as deep neural networks 
+3. master techniques in modern data an alysis to leverage big datasets from omics, 
+image and sensors; use pyspark skillfully to analyze big data 
+Laboratory Experiments 
+Introduction: data types, big data processing using pyspark (3 labs) 
+Machine learning applications : supervised and unsupervised  techniques for omics 
+data integration and analysis (4 labs) 
+Deep learning: applications in omics, image and sensor data (7 labs) 
+Textbook 
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From 
+Theory to Algorithms, Cambridge University Press 
+2. Tseng,G., Ghosh,D., Zhou X.J., (2015), Integrating Omics Data,  Cambridge 
+University Press 
+Self-Learning Material  
+1. Department of Computer Science, Stanford University 
+https://see.stanford.edu/Course/CS229 
+Preparatory Course Material 
+1. https://www.tutorialspoint.com/pyspark/ 
+ 
+29 
+ 
+Course Title Advances in Food Safety and Technology Course No. CYP6XX0 
+Department Chemistry L-T-P [C] 3-0-0 [3] 
+Offered for M.Sc. (CY) Program Type Compulsory  
+Pre-requisite   
+ 
+Objectives 
+ 
+The instructor will: 
+1. Provide in-depth exposure of raw materials composition, consumer foods and fodder. 
+2. prepare the students to analyze and improve the quality of foods. 
+3. give knowledge on bio-active compounds, chemical and biochemical reactions, health 
+effects and properties of food.  
+ 
+Learning Outcomes 
+The students will be able to: 
+1. Understand properties and reactions of carbohydrates, lipids and proteins during 
+storage and processing of food and how these influence the quality and properties of 
+the food. 
+2. Have knowledge on and be able to use food regulations. 
+3.  
+Course Content 
+Introduction: general aspects of food industry, world food demand and Indian scenario, 
+constituents of food, quality and nutritive aspects. Food additives, standards, deteriorative 
+factors and their control, preliminary processing methods, conversion and preservation 
+operation. (6 lectures) 
+ 
+Energy Engineering in Food Processing - Generation of Steam, Fuel and Electric Power 
+Utilization, Process Controls in Food Processing, Systems for Heating and Cooling Food 
+Products. Thermal Properties of Foods, Modes of Heat Transfer - Freezing Systems, Frozen-
+Food Properties, Freezing Time refrigeration system for food products. (6 lectures) 
+ 
+Processing Systems: Microbial Survivor Curves, Influence of External Agents, Thermal 
+Death Time, Spoilage Probability. Preservation by heat and cold dehydration, 
+concentration, frying, irradiation, microwave heating, sterilization and pasteurization, 
+fermentation and pickling, packing methods. (10 lectures) 
+ 
+Separation processes in food processing- Electrodialysis Systems, Reverse Osmosis 
+Membrane Systems, Membrane Performance, Ultrafiltration Membrane Systems, 
+Concentration Polarization. Types of Reverse-Osmosis and Ultrafiltration Systems, Drying 
+Processes, Dehydration Systems, Dehydration System Design,Sedimentation, 
+Centrifugation, Mixing. (6 lectures) 
+ 
+Production and utilization of food products - soft and alcoholic beverages, dairy products, 
+meat, poultry and fish products, treatment and disposal of food processing wastes. (6 
+lectures) 
+ 
+Packaging-Introduction, Food Protection, Product Containment, Product Communication, 
+Product Convenience, Mass Transfer in Packaging Materials. Innovations in Food Packaging, 
+Food Packaging and Product Shelf-life, Food canning technology, fundamentals of food 
+canning technology.Heat sterilization of canned food, containers - metal, glass and flexible 
+packaging, Canning procedures for fruits, vegetables, meats, and poultry marine products. 
+(6 lectures) 
+ 
+ 
+30 
+ 
+Textbooks: Fundamentals of Food Engineering by Stanley Charm. 
+1. Introduction to Food Engineering - R. Paul Singh, Dennis R. 
+2. Food microbiology: fundamentals and frontiers. 2nd ed. Washington (DC): 
+American Society for Microbiology 
+ 
+Reference Book:  
+1. S. Damodaran, K.L. Parkin, and O. R. Fennema, Fennema’s Food Chemistry, 
+fourth edition, 2007, CRC Press 
+2. Heldman, D.R., Food Process Engineering, The AVI Publishing Co; Westport, 1975 
+ 
+Online Course Material 
+1. https://nptel.ac.in/courses/103107088/ 
+2. https://swayam.gov.in/nd2_cec19_ag04/preview 
+ 
+ 
+ 

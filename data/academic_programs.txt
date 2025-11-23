@@ -1,0 +1,56 @@
+List of Academic Programs
+
+Bachelor of Technology:
+1. Computer Science & Engineering (Started 2008)
+2. Electrical Engineering (Started 2008)
+3. Mechanical Engineering (Started 2008)
+4. Bioengineering (Started 2017)
+5. Materials Engineering (Started 2020-21)
+6. Chemical Engineering
+7. Civil and Infrastructure Engineering
+8. Artificial Intelligence and Data Science
+
+Bachelor of Science:
+1. Chemistry with Specialization (Started 2022-23)
+2. Physics with Specialization
+
+Master of Science:
+1. Chemistry (Started 2015)
+2. Mathematics (Started 2015)
+3. Physics (Started 2015)
+4. Digital Humanities (Started 2020-21)
+5. Computational Social Science (Started 2022-23)
+
+Master of Technology:
+1. Bioscience and Bioengineering (Started 2017)
+2. Computer Science and Engineering (Started 2018)
+3. Artificial Intelligence (Started 2019)
+4. Cyber Physical System (Started 2019)
+5. Sensors and Internet of Things (Started 2019)
+6. Advanced Manufacturing and Design (Started 2019)
+7. Data and Computational Sciences (Started 2019)
+8. Thermofluids Engineering (Started 2019)
+9. Materials Engineering (Started 2018)
+10. Chemical Engineering (Started 2020-21)
+11. Infrastructure Engineering with specialization in Environmental Engineering
+12. Infrastructure Engineering with specialization in Energy
+13. Intelligent Communication System (Started 2022-23)
+14. Robotics and Mobility Systems
+15. Intelligent VLSI Systems (Started 2023)
+
+Doctor of Philosophy:
+1. Chemistry
+2. Mathematics
+3. Physics
+4. Humanities & Social Sciences
+5. Biosciences and Bioengineering
+6. Computer Science & Engineering
+7. Electrical Engineering
+8. Mechanical Engineering
+9. Metallurgical & Materials Engineering
+10. Chemical Engineering
+11. Civil and Infrastructure Engineering
+12. Medical Technologies
+13. Management and Entrepreneurship
+14. Artificial Intelligence and Data Science
+15. School of Design

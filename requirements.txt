@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+gradio
+mcp
+beautifulsoup4
+requests
+python-dotenv
+chromadb
+sentence-transformers
+pypdf

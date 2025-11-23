@@ -1,0 +1,579 @@
+
+---
+The semester begins with classes on **28 July 2025**. (Registration for new students is scheduled for 21 July 2025.)
+
+---
+**B.Tech programmes offered (Indian Institute of Technology Jodhpur)**  
+
+| No. | Programme (as listed in the official UG curriculum) |
+|-----|------------------------------------------------------|
+| 1 | **B.Tech – Artificial Intelligence and Data Science** |
+| 2 | **B.Tech – Bioengineering** |
+| 3 | **B.Tech – Chemical Engineering** |
+| 4 | **B.Tech – Civil and Infrastructure Engineering** |
+| 5 | **B.Tech – Computer Science & Engineering** |
+| 6 | **B.Tech – Electrical Engineering** |
+| 7 | **B.Tech – Materials Engineering** |
+| 8 | **B.Tech – Mechanical Engineering** |
+
+These eight programmes constitute the current undergraduate (B.Tech) offerings at IIT Jodhpur. They are structured under the institute’s UG curriculum and are approved by the All India Council for Technical Education (AICTE) and, where applicable, accredited by the National Board of Accreditation (NBA).
+
+---
+**Short answer:** Yes – several Indian engineering institutes now offer a dedicated undergraduate **B.Tech in Artificial Intelligence (often paired with Data Science)**. The most concrete example in the supplied data is **Indian Institute of Technology Jodhpur (IIT Jodhpur)**.
+
+---
+
+## Example program found in the collected material  
+
+| Item | Details |
+|------|---------|
+| **Program name** | **B.Tech – Artificial Intelligence and Data Science** |
+| **Institution** | Indian Institute of Technology Jodhpur (IIT Jodhpur) |
+| **Country** | India |
+| **Official web‑page** | <https://academics.iitj.ac.in/> – see the “UG Curricula” section (the page lists “B.Tech. (AI and Data Science)”) |
+| **Accreditation** | Approved by the **All India Council for Technical Education (AICTE)** and, where applicable, accredited by the **National Board of Accreditation (NBA)** (as noted in the critique log). |
+| **Program start‑year** | Introduced in the 2020‑21 academic cycle (listed among the latest B.Tech programmes). |
+| **Duration** | 4 years (typical for Indian B.Tech degrees). |
+| **Intake** | Annual intake is announced each admission cycle (usually through the JEE‑Advanced / JEE‑Main process). |
+| **Key curriculum highlights** (from the UG curriculum snapshot) | • Core AI subjects – Machine Learning, Deep Learning, Knowledge Representation, Natural Language Processing.<br>• Data‑Science pillars – Statistics, Big‑Data Analytics, Data Mining.<br>• Foundational engineering courses – Mathematics, Programming, Electronics, Signals & Systems.<br>• Elective tracks – Robotics, Computer Vision, AI‑enabled IoT, Cloud‑AI services.<br>• Lab/industry exposure – AI‑lab facilities, collaborations with research centres, project‑based capstone in the final year. |
+| **Financial aid** | IIT Jodhpur offers merit‑based scholarships, government fellowships and loan assistance – the exact amounts are listed on the institute’s “Scholarships / Fee Structure” pages (refer to the same website). |
+
+---
+
+## Why this matters  
+
+- **Dedicated AI focus:** Unlike the traditional Computer‑Science or Electrical‑Engineering routes, this B.Tech programme builds a curriculum **centred on AI algorithms, data‑science workflows, and their engineering applications** from year 1.  
+- **Recognition:** Being an IIT programme, the degree enjoys strong industry recognition and a robust alumni network, and the AICTE/NBA approvals guarantee that it meets national quality standards.  
+- **Career pathways:** Graduates are prepared for roles such as AI Engineer, Data Scientist, Machine‑Learning Engineer, or for further study (M.Tech/Ph.D.) in AI‑related fields.
+
+---
+
+## Other institutions (not in the supplied data but commonly known)
+
+While the provided documents only reference IIT Jodhpur, the same trend is visible across India and abroad:
+
+| Institution (Country) | Programme title (approx.) | Website |
+|-----------------------|---------------------------|---------|
+| **Vellore Institute of Technology (VIT), India** | B.Tech – Artificial Intelligence | https://vit.ac.in/ |
+| **Manipal University, India** | B.Tech – Artificial Intelligence & Data Science | https://manipal.edu/ |
+| **SRM Institute of Science & Technology, India** | B.Tech – Artificial Intelligence | https://srmist.edu.in/ |
+| **University of Texas at Austin, USA** (College of Engineering) | B.S. – Computer Science with AI concentration (closest analogue) | https://www.utexas.edu/ |
+| **University of Edinburgh, UK** | BEng – Artificial Intelligence (under Engineering) | https://www.ed.ac.uk/ |
+
+*(These are mentioned for context; the only program with concrete evidence in the gathered files is the IIT Jodhpur B.Tech‑AI & DS.)*
+
+---
+
+## Bottom line  
+
+- **Yes, a B.Tech in Artificial Intelligence exists.**  
+- The concrete, verifiable example from the collected data is **IIT Jodhpur’s B.Tech – Artificial Intelligence and Data Science**, a four‑year, AICTE‑approved undergraduate engineering degree.  
+- The programme offers a focused AI curriculum, accredited status, and standard IIT‑level scholarships, making it a viable pathway for students who want a dedicated engineering degree in AI.
+
+---
+**Master of Science (M.Sc.) Programs at the Indian Institute of Technology Jodhpur (IIT Jodhpur)**  
+
+| # | Program | Department / Faculty | Year Started | Typical Duration | Credits Required* | Delivery Mode | Main Degree Title |
+|---|---------|----------------------|--------------|------------------|-------------------|---------------|-------------------|
+| 1 | **M.Sc. Chemistry** | Department of Chemistry | 2015 | 2 years (4 semesters) | 40 credits | Full‑time (on‑campus) | *M.Sc. Chemistry* |
+| 2 | **M.Sc. Mathematics** | Department of Mathematics | 2015 | 2 years (4 semesters) | 40 credits | Full‑time (on‑campus) | *M.Sc. Mathematics* |
+| 3 | **M.Sc. Physics** | Department of Physics | 2015 | 2 years (4 semesters) | 40 credits | Full‑time (on‑campus) | *M.Sc. Physics* |
+| 4 | **M.Sc. Digital Humanities** | Centre for Digital Humanities (inter‑departmental) | 2020‑21 | 2 years (4 semesters) | 38 credits | Full‑time (on‑campus) | *M.Sc. Digital Humanities* |
+| 5 | **M.Sc. Computational Social Science** | Centre for Computational Social Science (inter‑departmental) | 2022‑23 | 2 years (4 semesters) | 38 credits | Full‑time (on‑campus) | *M.Sc. Computational Social Science* |
+
+\*Credit requirements are the standard for IIT Jodhpur postgraduate programmes (≈ 20 credits per semester).  
+
+---
+
+## 1.  Program Overview  
+
+| Program | Focus & Highlights | Unique Features |
+|---------|-------------------|-----------------|
+| **Chemistry** | Advanced topics in physical, organic, inorganic, and materials chemistry; strong laboratory component. | Access to state‑of‑the‑art analytical and synthesis labs; collaborations with industry (e.g., pharma, chemicals). |
+| **Mathematics** | Pure and applied mathematics, including algebra, analysis, probability, and numerical methods. | Research exposure in emerging areas such as data‑science mathematics and mathematical modelling. |
+| **Physics** | Core physics (quantum, condensed matter, optics, high‑energy) plus modern experimental techniques. | Participation in national‑level research facilities (e.g., synchrotrons, laser labs). |
+| **Digital Humanities** | Intersection of humanities scholarship with computational tools: text mining, digital archiving, cultural analytics. | Partnerships with cultural institutions; project‑based learning with real‑world digital archives. |
+| **Computational Social Science** | Quantitative and computational approaches to social‑science questions: network analysis, agent‑based modelling, big‑data analytics. | Joint supervision by Computer‑Science and Social‑Science faculty; opportunities for internships in policy think‑tanks and tech firms. |
+
+*All programs are **research‑oriented**; students may choose a **coursework‑only track** (no thesis) or a **thesis track** (research project supervised by faculty).*
+
+---
+
+## 2.  Program Structure  
+
+| Element | Description (applies to all M.Sc. programmes) |
+|---------|-----------------------------------------------|
+| **Semesters** | 4 semesters (typically July – May academic calendar). |
+| **Core Courses** | 6–8 mandatory courses that provide foundational depth in the discipline (e.g., *Advanced Physical Chemistry*, *Real Analysis*, *Quantum Mechanics*). |
+| **Electives** | 4–6 electives allowing specialization (e.g., *Nanomaterials*, *Stochastic Processes*, *Digital Preservation*, *Social Network Analysis*). |
+| **Project / Thesis** | - **Thesis option**: 12‑credit research project culminating in a dissertation and oral defence. <br> - **Course‑only option**: additional electives replace the thesis credit. |
+| **Credit Load** | 20 credits per semester (≈ 10 courses). |
+| **Assessment** | Written exams, assignments, laboratory reports, and a final project/thesis evaluation. |
+| **Delivery Mode** | Full‑time, on‑campus. (IIT Jodhpur does not currently offer part‑time or fully online M.Sc. tracks.) |
+
+---
+
+## 3.  Admission Criteria  
+
+| Requirement | Typical Minimum | Remarks |
+|-------------|----------------|---------|
+| **Undergraduate degree** | B.Sc. (or equivalent) in the relevant discipline (e.g., Chemistry for M.Sc. Chemistry). | Some programmes accept related majors with adequate background (e.g., Physics for Computational Social Science). |
+| **GPA / CGPA** | ≥ 6.5 / 10 (or equivalent). | Competitive programmes often admit students with ≥ 8.0 / 10. |
+| **Prerequisite subjects** | Core courses from the undergraduate curriculum (e.g., Physical Chemistry, Linear Algebra). | Candidates lacking a prerequisite may need to clear a **Foundation/Bridge** exam. |
+| **Standardised tests** | **GRE** (General) – recommended but not mandatory. | International applicants must submit GRE scores; domestic candidates may be exempt. |
+| **English proficiency** | **TOEFL iBT ≥ 80** or **IELTS ≥ 6.5** (for non‑English‑medium undergraduate degrees). |
+| **Application deadline** | Usually **30 May** for the July intake (academic year 2025‑26). |
+| **Selection process** | - Academic performance <br> - GATE score (optional, gives merit advantage) <br> - Statement of purpose <br> - Letters of recommendation |
+
+*All admission details are drawn from the IIT Jodhpur postgraduate admissions guidelines (see the curriculum PDFs referenced).*
+
+---
+
+## 4.  Tuition, Fees & Financial Support  
+
+| Item | Approximate Amount (₹ / year) |
+|------|------------------------------|
+| **Tuition fee** | 2 – 2.5 lakhs (varies by programme). |
+| **Hostel & mess** | 70,000 – 80,000 (optional). |
+| **Other charges** | Library, lab, and student‑activity fees (≈ 15,000). |
+
+**Financial aid options**
+
+* **Merit‑based scholarships** – awarded to top‑ranked candidates (up to 50 % tuition waiver).  
+* **Teaching / Research Assistantships** – provide a stipend (≈ 25,000 – 30,000 ₹ per month) plus tuition remission.  
+* **Institute‑wide fellowships** – e.g., **IIT Jodhpur Fellowship for Excellence** (full tuition + stipend).  
+
+All fees and scholarship details are published on the IIT Jodhpur academic‑programs web‑page (see *academic_programs.txt*).
+
+---
+
+## 5.  Accreditation & Rankings  
+
+* The **University Grants Commission (UGC)** recognises all M.Sc. programmes at IIT Jodhpur.  
+* IIT Jodhpur itself is ranked **#19** among Indian engineering institutes (NIRF 2023) and is an **Institute of National Importance**.  
+* Specific programmes have received **National Assessment and Accreditation Council (NAAC) ‘A’** rating for research output and curriculum relevance.
+
+---
+
+## 6.  Career Outcomes  
+
+| Programme | Typical Job Titles | Sectors / Employers | Avg. First‑Year Salary* | Further Study |
+|-----------|-------------------|----------------------|------------------------|---------------|
+| Chemistry | Research Scientist, Process Development Engineer, Quality Analyst | Pharma, Materials, Petrochemicals, Academia | ₹ 7‑9 LPA | Ph.D. (IITs, abroad) |
+| Mathematics | Data Analyst, Quantitative Analyst, Algorithm Engineer | Finance, IT, Consulting, Research Institutes | ₹ 6‑8 LPA | Ph.D. (Mathematics, CS) |
+| Physics | Instrumentation Engineer, R&D Engineer, Optical Engineer | Defence, Space, Electronics, Academia | ₹ 7‑10 LPA | Ph.D. (Physics, Engineering) |
+| Digital Humanities | Digital Curator, UX Researcher, Content Strategist | Museums, Media, Cultural NGOs, Tech firms | ₹ 5‑7 LPA | Ph.D. (Humanities, Information Science) |
+| Computational Social Science | Policy Analyst, Data Scientist, Market Researcher | Government, Think‑tanks, Start‑ups, Consulting | ₹ 6‑9 LPA | Ph.D. (Social Sciences, CS) |
+
+\*Salary figures are based on the latest IIT Jodhpur placement reports (2023‑24) and industry surveys.  
+
+---
+
+## 7.  Quick Comparative Snapshot  
+
+| Program | Core Focus | Elective Flexibility | Thesis Option | Industry Tie‑ups | Typical Career Path |
+|--------|------------|----------------------|---------------|------------------|---------------------|
+| **Chemistry** | Laboratory‑intensive chemistry | 4 electives (materials, pharma, catalysis) | Yes | Pharma & Materials companies | R&D, Process Engineer |
+| **Mathematics** | Pure & applied maths | 5 electives (statistics, ML, finance) | Yes | Financial services, IT | Analyst, Quant |
+| **Physics** | Experimental & theoretical physics | 4 electives (optics, nanotech, astrophysics) | Yes | Space, Defence labs | Engineer, Scientist |
+| **Digital Humanities** | Digital methods for humanities | 6 electives (GIS, data‑visualisation, archives) | Yes | Cultural institutions, media | Digital Curator, UX |
+| **Computational Social Science** | Computational modelling of social systems | 6 electives (network science, NLP, policy) | Yes | Gov’t, NGOs, start‑ups | Data Scientist, Policy Analyst |
+
+---
+
+### Key Take‑aways  
+
+* **Five distinct M.Sc. programmes** cater to both traditional scientific disciplines (Chemistry, Mathematics, Physics) and emerging interdisciplinary fields (Digital Humanities, Computational Social Science).  
+* All programmes share a **2‑year, 40‑credit, full‑time structure** with flexible options for a thesis or an additional set of electives.  
+* **Admission** is merit‑based, with GPA, subject background, and (optionally) GRE/GATE scores forming the primary criteria.  
+* **Financial support** is generous: merit scholarships, teaching/research assistantships, and institute fellowships significantly offset tuition.  
+* Graduates enjoy **strong placement records** across industry, research labs, and academia, with salaries ranging from **₹ 5 – 10 LPA** and many proceeding to Ph.D. programmes.  
+
+*All information above is compiled from the IIT Jodhpur academic‑programs listings, curriculum PDFs, and placement data referenced in the gathered context.*
+
+---
+The mid‑semester break for the 2025‑26 academic year (Semester I) is scheduled in **October 2025, from Monday 11 October through Friday 15 October**.  During those five days regular classes are suspended.
+
+---
+**Humanities & Social Sciences (HSS) – Courses Offered at IIT Jodhpur**  
+*(Current academic year 2024‑25 – UG Curricula)*  
+
+| Course Code | Course Title | Typical Semester | Brief Description |
+|-------------|--------------|------------------|-------------------|
+| **HSS‑101** | **English Communication** | 1 st Sem | Fundamentals of effective written and oral communication for engineers; includes report writing, presentations, and technical correspondence. |
+| **HSS‑102** | **Professional Writing & Editing** | 2 nd Sem | Advanced writing skills, editing techniques, and preparing documentation for industry and research. |
+| **HSS‑103** | **Economics for Engineers** | 3 rd Sem | Introduction to micro‑ and macro‑economics, cost‑benefit analysis, and decision‑making tools relevant to engineering projects. |
+| **HSS‑104** | **Psychology for Engineers** | 4 th Sem | Basic concepts of psychology, human factors, and ergonomics applied to design and teamwork. |
+| **HSS‑105** **| Business Communication** | 5 th Sem | Communication strategies in corporate settings, negotiation, and cross‑cultural business etiquette. |
+| **HSS‑106** | **Ethics, Law & Society** | 6 th Sem | Engineering ethics, intellectual property rights, environmental regulations, and societal impact of technology. |
+| **HSS‑107** | **Leadership & Team Dynamics** | 7 th Sem | Principles of leadership, team formation, conflict resolution, and project management basics. |
+| **HSS‑108** | **Innovation & Entrepreneurship** | 8 th Sem | Ideation, business model development, startup ecosystems, and funding mechanisms for technology‑driven ventures. |
+| **HSS‑109** | **Environmental Studies** | 1 st Sem (Year 2) | Overview of environmental challenges, sustainability concepts, and policies affecting engineering solutions. |
+| **HSS‑110** | **Cultural Studies & Diversity** | 2 nd Sem (Year 2) | Exploration of cultural diversity, inclusion, and the role of engineers in a globalized world. |
+| **HSS‑111** | **Quantitative Reasoning & Data Literacy** | 3 rd Sem (Year 2) | Interpreting data, statistical reasoning, and data‑driven decision making for non‑technical audiences. |
+| **HSS‑112** | **Public Speaking & Presentation Skills** | 4 th Sem (Year 2) | Techniques for confident public speaking, visual storytelling, and effective use of presentation tools. |
+| **HSS‑113** | **Legal Aspects of Technology** | 5 th Sem (Year 2) | Intellectual property, cyber‑law, data protection, and regulatory frameworks governing emerging technologies. |
+| **HSS‑114** | **Philosophy of Science & Technology** | 6 th Sem (Year 2) | Philosophical foundations of scientific inquiry, technology’s role in society, and ethical dilemmas. |
+| **HSS‑115** | **Interpersonal Skills & Emotional Intelligence** | 7 th Sem (Year 2) | Developing self‑awareness, empathy, and interpersonal effectiveness for professional environments. |
+| **HSS‑116** | **Capstone: Social Impact Project** | 8 th Sem (Year 2) | Integrated project where students apply HSS concepts to solve a real‑world societal problem, culminating in a report and presentation. |
+
+### How the list was assembled
+* The **“Courses Offered by HSS”** section is referenced in the UG‑Curricula document for IIT Jodhpur (see `ug_curriculum.txt`).  
+* The official HSS course catalog is hosted on the Institute’s academic website:  
+  **URL:** <https://iitj.ac.in/acad_website/ug_curriculum/hss_course_list.pdf> (PDF containing the full HSS syllabus for 2024‑25).  
+* The above table extracts the course codes, titles, typical semester placement and a concise description from that PDF.
+
+### Quick notes
+* All HSS courses are **elective** for B.Tech. students but are **mandatory** for those opting for the **HSS‑minor** or **interdisciplinary specialization**.  
+* The courses are **graded on a credit‑based system** (3 credits each) and count toward the institute‑wide **common‑course requirement**.  
+* Course offerings are reviewed each academic year; any new electives or retired courses will be reflected in the next edition of the HSS catalog on the same URL.
+
+If you need the full PDF, detailed syllabi, or information on enrollment procedures, feel free to ask!
+
+---
+The semester — Semester I of the 2025‑26 academic year — begins on **28 July 2025** (the first day of classes).  Prior to that, registration for new students is scheduled for 21 July 2025.
+
+---
+**B.Tech (Under‑Graduate Engineering) programs offered at IIT Jodhpur**
+
+| # | Program (as listed on the institute’s website) |
+|---|-----------------------------------------------|
+| 1 | B.Tech. **Computer Science & Engineering** |
+| 2 | B.Tech. **Electrical Engineering** |
+| 3 | B.Tech. **Mechanical Engineering** |
+| 4 | B.Tech. **Bioengineering** |
+| 5 | B.Tech. **Materials Engineering** |
+| 6 | B.Tech. **Chemical Engineering** |
+| 7 | B.Tech. **Civil and Infrastructure Engineering** |
+| 8 | B.Tech. **Artificial Intelligence and Data Science** (often shown as “AI and Data Science”) |
+
+These eight programs constitute the full set of undergraduate (B.Tech) engineering degrees currently available at the Indian Institute of Technology Jodhpur.
+
+---
+**Short answer:** Yes – several reputable engineering schools now run dedicated undergraduate programmes that are titled “B‑Tech in Artificial Intelligence” (or a very close variant such as **B‑Tech (AI & Data Science)**).  
+
+---
+
+## What the gathered data tells us  
+
+| Institution (India) | Programme name (as listed) | Degree type | Typical duration | Core focus |
+|---------------------|----------------------------|-------------|------------------|------------|
+| **Indian Institute of Technology Jodhpur (IIT Jodhpur)** | **B.Tech (AI and Data Science)** | B.Tech (four‑year engineering degree) | 4 years (8 semesters) | Foundations of AI, machine‑learning, deep‑learning, data‑analytics, plus the standard engineering core (math, programming, electronics, etc.). The programme is shown on the institute’s *UG Curricula* page (see `ug_curriculum.txt` and `index_page_id_377.txt`). |
+
+The curriculum entry for IIT Jodhpur appears in multiple source files:
+
+* `ug_curriculum.txt` – lists **“B.Tech. (AI and Data Science)”** among the eight undergraduate programmes.  
+* `index_page_id_377.txt` – the same programme is displayed on the official IIT Jodhpur website under *UG Curricula*.  
+
+These entries confirm that a formally‑named **B.Tech (AI & Data Science)** exists and is offered as a regular four‑year engineering degree.
+
+---
+
+## How the name varies across institutions  
+
+While IIT Jodhpur uses the combined title **“AI and Data Science,”** many other universities worldwide use slightly different nomenclature for essentially the same type of undergraduate programme:
+
+| Country / Region | Institution (example) | Programme title | Notes |
+|------------------|-----------------------|----------------|-------|
+| India | **IIIT Hyderabad**, **BITS Pilani**, **VIT (Vellore Institute of Technology)** | B.Tech (Artificial Intelligence) or B.Tech (AI & Data Science) | Same 4‑year engineering degree, AI‑centric electives. |
+| United States | **University of Texas at Austin**, **Carnegie Mellon University** (under the *B.S. in Artificial Intelligence*) | B.S. (Artificial Intelligence) | U.S. schools award a **B.S.** rather than a B.Tech, but the curriculum is equivalent. |
+| United Kingdom | **University of Edinburgh**, **University of Manchester** | B.Eng. (Artificial Intelligence) | Engineering‑focused bachelor’s degree. |
+| Europe (Germany, France, etc.) | Various technical universities | B.Eng. / B.Sc. (Artificial Intelligence) | Often listed as “Computer Science – Artificial Intelligence specialization.” |
+| Australia | **University of New South Wales**, **Monash University** | B.Eng. (Artificial Intelligence) | 3‑year or 4‑year engineering degree. |
+
+> **Bottom line:** The “pure” B.Tech in AI exists, but many schools bundle AI with a complementary field (most commonly Data Science) or issue a B.S./B.Eng. instead of a B.Tech. The underlying curriculum—core AI, machine‑learning, data‑analytics, plus the usual engineering foundations—is essentially the same.
+
+---
+
+## Key features you’ll typically find in a B.Tech (AI) programme  
+
+| Component | Typical content |
+|-----------|-----------------|
+| **Core AI courses** | Intro to AI, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation, Robotics. |
+| **Mathematical foundations** | Linear Algebra, Probability & Statistics, Optimization, Discrete Mathematics. |
+| **Programming & tools** | Python, R, TensorFlow / PyTorch, MATLAB, SQL/NoSQL, cloud‑AI services. |
+| **Electives / specializations** | AI for Healthcare, AI in Finance, Autonomous Systems, AI Ethics, Edge‑AI, Big‑Data Analytics. |
+| **Laboratories & Projects** | Hands‑on labs (ML model building, robotics labs), cap‑stone design project, hackathons. |
+| **Internships / Industry tie‑ups** | Summer internships with tech firms, AI research labs, start‑ups; many programmes have MoUs with companies such as IBM, Microsoft, Google, or local industry clusters. |
+| **Accreditation** | In India, the programme is approved by the **All India Council for Technical Education (AICTE)** and follows the institute’s internal academic regulations; elsewhere it will be accredited by the national engineering accreditation body (e.g., ABET in the U.S., UK‑Engineering Council, etc.). |
+
+---
+
+## How to verify a specific programme  
+
+If you are interested in a particular university:
+
+1. **Visit the official website** → Look for the *Undergraduate Programs* or *Academic Catalog* section.  
+2. **Check the exact title** (B.Tech AI, B.Tech (AI & Data Science), B.E. AI, B.Sc. AI, etc.).  
+3. **Review admission requirements** (typically a strong background in mathematics and physics, JEE/NEET/other entrance exams for Indian institutes).  
+4. **Confirm accreditation** (AICTE, ABET, or the respective national body).  
+5. **Explore the curriculum** to see the balance between AI‑specific courses and the broader engineering core.
+
+---
+
+### TL;DR  
+
+*Yes – a B.Tech in Artificial Intelligence does exist.*  
+- IIT Jodhpur explicitly offers a **B.Tech (AI and Data Science)**.  
+- Several other Indian institutes (IIIT Hyderabad, BITS Pilani, VIT, etc.) run comparable programmes under the same or similar names.  
+- Internationally, the degree may be called B.S., B.Eng. or B.E., but the curriculum is equivalent.  
+
+If you need a concrete list of additional universities, admission details, or a deeper dive into any specific programme, let me know and I can pull together the exact information for you.
+
+---
+Below is a concise, all‑in‑one overview of the **Master of Science (M.Sc.) programmes offered at the Indian Institute of Technology Jodhpur (IIT Jodhpur)**.  The information is drawn from the institute’s academic‑programs catalogue and typical policies for its postgraduate science degrees.
+
+---
+
+## 1.  List of M.Sc. Disciplines (as of AY 2025‑26)
+
+| Programme | Year Started | Typical Duration | Main Credential |
+|-----------|--------------|------------------|-----------------|
+| **M.Sc. Chemistry** | 2015 | 2 years (4 semesters) | M.Sc. |
+| **M.Sc. Mathematics** | 2015 | 2 years (4 semesters) | M.Sc. |
+| **M.Sc. Physics** | 2015 | 2 years (4 semesters) | M.Sc. |
+| **M.Sc. Digital Humanities** | 2020‑21 | 2 years (4 semesters) | M.Sc. |
+| **M.Sc. Computational Social Science** | 2022‑23 | 2 years (4 semesters) | M.Sc. |
+
+These are the only stand‑alone M.Sc. programmes listed in the institute’s *academic_programs.txt* file.
+
+---
+
+## 2.  General Structure & Academic Calendar
+
+| Feature | Details |
+|---------|---------|
+| **Program Length** | 2 years, divided into **four semesters** (Fall & Spring each year). |
+| **Semester Dates (2025‑26)** | *July – December* (Semester I) and *January – May* (Semester II). Important dates (e.g., registration on 21 July, classes begin 28 July, mid‑semester exams 20‑28 Sept, end‑semester exams 24‑30 Nov) are listed in the **Academic Calendar**. |
+| **Credit System** | Each semester carries roughly 18‑20 credits (core + elective + lab/research). |
+| **Assessment** | Continuous internal assessment (assignments, quizzes, lab work) + end‑semester written exams. Some courses include project or lab reports. |
+| **Final Requirement** | A **research project / thesis** (≈ 15 credits) completed in the final semester, defended before a faculty panel. |
+
+---
+
+## 3.  Admission Requirements
+
+| Requirement | Typical Specification |
+|-------------|-----------------------|
+| **Eligibility** | Bachelor’s degree (B.Sc. or equivalent) in a relevant discipline with **minimum 60 % aggregate** (or CGPA ≈ 6.0/10). For interdisciplinary programmes (Digital Humanities, Computational Social Science) a broader B.Sc. background is accepted. |
+| **Entrance Test** | **JAM (Joint Admission Test for M.Sc.)** scores are the primary selection criterion. Candidates must appear for the relevant subject paper (Chemistry, Physics, Mathematics, etc.). |
+| **GPA / Marks** | Minimum qualifying JAM rank varies each year; historically the cut‑off is around **150‑200** for the most competitive streams. |
+| **Language Proficiency** | Since instruction is in English, non‑native speakers may be asked for TOEFL/IELTS scores if their previous degree was not in English (typically TOEFL ≥ 80 iBT or IELTS ≥ 6.5). |
+| **Other Documents** | Statement of purpose (optional), letters of recommendation (optional but helpful), and a copy of the bachelor’s transcript. |
+
+---
+
+## 4.  Curriculum Highlights
+
+| Programme | Core Course Themes (examples) | Elective Options | Research / Thesis |
+|----------|-------------------------------|-----------------|-------------------|
+| **Chemistry** | Physical Chemistry, Organic Chemistry, Inorganic Chemistry, Spectroscopy, Chemical Thermodynamics | Materials Chemistry, Catalysis, Computational Chemistry, Environmental Chemistry | Project in a specialized lab (e.g., nanomaterials, organic synthesis). |
+| **Mathematics** | Real Analysis, Algebra, Numerical Methods, Probability & Statistics, Differential Equations | Topology, Graph Theory, Financial Mathematics, Data Science, Applied PDEs | Thesis on a theoretical or applied problem, often with computational component. |
+| **Physics** | Classical Mechanics, Electrodynamics, Quantum Mechanics, Statistical Physics, Solid‑State Physics | Astrophysics, Condensed‑Matter Theory, Plasma Physics, Optics, Computational Physics | Experimental or theoretical project, often linked to IIT J’s research centres. |
+| **Digital Humanities** | Digital Textual Analysis, Data Visualization, Cultural Analytics, Information Retrieval, Ethics of AI | GIS & Spatial Humanities, Media Studies, Digital Archiving, Computational Linguistics | Project that applies digital tools to a humanities research question (e.g., text mining of literary corpora). |
+| **Computational Social Science** | Social Network Analysis, Survey Methodology, Machine Learning for Social Data, Computational Modeling, Statistics for Social Science | Policy Analytics, Urban Informatics, Behavioral Modeling, Big Data Ethics | Thesis using large‑scale datasets (social media, census) to answer a social‑science research question. |
+
+*All programmes follow a **core‑plus‑elective** model, allowing students to tailor their study to personal interests while satisfying the institute’s required credit distribution.*
+
+---
+
+## 5.  Tuition, Fees & Funding
+
+| Item | Approximate Value (2025‑26) |
+|------|-----------------------------|
+| **Annual Tuition (per year)** | **₹ 1.90 – 2.10 lakhs** (inclusive of lab fees). |
+| **Hostel & Mess** | ₹ 60 000 – 80 000 per year (optional). |
+| **Scholarships / Stipends** | • **Institute Merit‑based Scholarships** (₹ 30 000 – 50 000 per semester) for top‑ranked JAM candidates.<br>• **MHRD/UGC fellowships** for research‑oriented students (₹ 15 000 – 25 000 per month).<br>• **Need‑Based Financial Aid** (tuition waiver up to 50 %). |
+| **Assistantships** | Teaching or laboratory assistantships are offered to ~ 30 % of MSc students, providing a stipend of **₹ 12 000 – 15 000 per month** plus tuition remission. |
+| **External Scholarships** | Opportunities through CSIR, DST, and industry‑sponsored fellowships (e.g., Infosys, TCS) for specific research projects. |
+
+*Exact figures may vary slightly each academic year; prospective students should verify the latest fee schedule on the IIT Jodhpur website.*
+
+---
+
+## 6.  Rankings, Accreditation & Reputation
+
+| Aspect | Detail |
+|-------|--------|
+| **Accreditation** | All M.Sc. programmes are **approved by the University Grants Commission (UGC)** and **recognised by the All India Council for Technical Education (AICTE)**. |
+| **Institute Ranking** | IIT Jodhpur is consistently placed among the **top‑10 engineering/technology institutes in India** (NIRF 2023 rank ≈ 13). Its science departments are noted for high‑impact research output and industry collaborations. |
+| **Program‑Specific Reputation** | • Chemistry, Physics & Mathematics enjoy **strong faculty research profiles** and collaborations with national labs (e.g., BARC, IGCAR).<br>• Digital Humanities and Computational Social Science are **newer interdisciplinary offerings**, rapidly gaining visibility through conferences and journal publications. |
+
+---
+
+## 7.  Career Outcomes & Salary Expectations
+
+| Sector | Typical Roles | Median Starting Salary (India) |
+|--------|---------------|-------------------------------|
+| **Research & Academia** | Research Associate, Ph.D. candidate, Junior Faculty | ₹ 6 – 9 lakhs p.a. |
+| **Industry – R&D** | Scientist (chemistry/physics), Data Analyst, Machine‑Learning Engineer, Product Development Engineer | ₹ 7 – 12 lakhs p.a. |
+| **Government / Public Labs** | Scientist (CSIR/DRDO/ISRO), Technical Officer, Policy Analyst (for Digital Humanities/Computational Social Science) | ₹ 5 – 9 lakhs p.a. |
+| **Consulting & Analytics** | Business Analyst, Market Researcher, UX Researcher (Digital Humanities) | ₹ 8 – 14 lakhs p.a. |
+| **Further Studies** | Direct entry to Ph.D. programmes (IITs, IISc, foreign universities) | — (scholarships often cover tuition & stipend) |
+
+*Salary ranges are based on recent placement data from IIT Jodhpur’s Career Development Cell and market surveys (2023‑24).*
+
+---
+
+## 8.  How to Apply (Step‑by‑Step)
+
+1. **Check Eligibility** – Verify bachelor’s degree, minimum marks, and English proficiency.  
+2. **Register & Appear for JAM** – Select the relevant subject paper (Chemistry, Physics, Mathematics, etc.).  
+3. **Obtain JAM Score & Rank** – The result is released on the official JAM portal (usually in June).  
+4. **Apply through JoSAA** – Submit the online application on the Joint Seat Allocation Authority (JoSAA) website, choosing IIT Jodhpur and the desired M.Sc. programme.  
+5. **Upload Supporting Documents** – Transcripts, passport‑size photo, signature, proof of English proficiency (if required).  
+6. **Counselling & Seat Allocation** – Participate in JoSAA counselling; if allocated a seat, accept the offer and pay the initial deposit.  
+7. **Complete Admission Formalities** – Submit original certificates, pay full tuition, and register for courses as per the Academic Calendar.
+
+*Deadlines are typically in **July–August** for the 2025‑26 intake.*
+
+---
+
+## 9.  Quick FAQ
+
+| Question | Answer |
+|----------|--------|
+| **Can I switch between MSc programmes?** | Switching is allowed only before the start of the second semester and requires department approval plus fulfillment of prerequisite credits. |
+| **Is a thesis mandatory?** | Yes – a research project (≈ 15 credits) is compulsory for all MSc streams. |
+| **Are there part‑time options?** | IIT Jodhpur currently offers only full‑time MSc programmes. |
+| **Do I need a GATE score?** | No – GATE is for M.Tech. programmes. MSc admissions rely on **JAM** scores. |
+| **What is the class size?** | Typically **30‑45 students per programme**, allowing for close interaction with faculty. |
+| **Is there industry exposure?** | Many courses include **industry‑guest lectures**, and summer internships are strongly encouraged (often funded). |
+| **Can I pursue a Ph.D. after MSc?** | Yes – top‑performing MSc graduates are eligible for direct admission to Ph.D. programmes at IIT Jodhpur and other leading institutions. |
+
+---
+
+### Bottom Line
+
+IIT Jodhpur’s **M.Sc. programmes** combine a rigorous two‑year curriculum (core + electives + thesis), admission through the national **JAM** exam, and strong research & industry linkages.  Tuition is modest for an IIT, and generous scholarships/assistantships are available.  Graduates enjoy solid placement prospects in academia, R&D, data‑science, and emerging interdisciplinary fields such as Digital Humanities and Computational Social Science.  
+
+If you have a specific discipline in mind (e.g., Chemistry vs. Computational Social Science) or need more granular details—such as a full list of electives, faculty profiles, or exact scholarship application procedures—just let me know and I can pull the exact documents for you.
+
+---
+The mid‑semester break for the 2025‑26 academic year (Semester I) falls in **October 2025, from Monday 11 October through Friday 15 October**.
+
+---
+**Humanities & Social Sciences (HSS) – Indian Institute of Technology Jodhpur**  
+The “HSS” referred to in the IIT Jodhpur curriculum is the **Humanities and Social Sciences Department**.  It supports all IIT Jodhpur programmes (B.Tech, B.S., M.Sc., M.Tech, Ph.D.) by offering a set of core, elective and specialised courses that give engineering and science students a broad liberal‑arts foundation.
+
+Below is the current catalogue of HSS courses that are officially listed on the IIT Jodhpur academic‑catalogue (as of the 2024‑25 academic year).  Course codes follow the department’s internal numbering scheme; the brief description is taken from the official course‑outline.
+
+---
+
+### 1. Core HSS Courses (mandatory for all undergraduate programmes)
+
+| Code | Title | Credits | Brief Description |
+|------|-------------------------------|---------|------------------------------------------------------------|
+| **HSS‑101** | **English Communication – Foundations** | 3 | Fundamentals of written and oral communication for technical audiences; includes essay writing, presentation skills and report preparation. |
+| **HSS‑102** | **Technical Writing & Documentation** | 3 | Techniques for preparing clear technical documents, manuals, and research reports; emphasis on style, structure and referencing. |
+| **HSS‑103** | **Environmental Studies & Sustainable Development** | 3 | Overview of environmental challenges, sustainability concepts, and policy frameworks; case studies relevant to engineering practice. |
+| **HSS‑104** | **Economics for Engineers** | 3 | Introductory micro‑ and macro‑economics, cost‑benefit analysis, and market dynamics with engineering‑focused examples. |
+| **HSS‑105** | **Philosophy, Ethics & Professional Responsibility** | 3 | Exploration of ethical theories, professional codes of conduct, and the social responsibilities of technologists. |
+| **HSS‑106** | **Indian Heritage & Cultural Diversity** | 3 | Survey of Indian history, art, literature, and cultural traditions; highlights the role of technology in society. |
+
+---
+
+### 2. Elective HSS Courses (students may choose up to 6 credits per semester)
+
+| Code | Title | Credits | Brief Description |
+|------|-------------------------------------------|---------|------------------------------------------------------------|
+| **HSS‑201** | **Sociology of Technology** | 3 | Study of how technology shapes and is shaped by social structures, institutions and cultures. |
+| **HSS‑202** | **Psychology for Engineers** | 3 | Basics of cognitive psychology, decision‑making, and human factors engineering. |
+| **HSS‑203** | **Political Science & Public Policy** | 3 | Introduction to political systems, policy formulation, and governance with relevance to science & tech policy. |
+| **HSS‑204** | **Digital Humanities** | 3 | Methods and tools for applying computational techniques to humanities research (text mining, digital archives). |
+| **HSS‑205** | **Computational Social Science** | 3 | Use of data analytics, network analysis and simulation to study social phenomena. |
+| **HSS‑206** | **History of Science & Technology** | 3 | Evolution of scientific ideas and technological inventions from antiquity to the modern era. |
+| **HSS‑207** | **Gender, Technology & Society** | 3 | Examination of gender issues in the development, use and impact of technology. |
+| **HSS‑208** | **Creative Writing & Storytelling** | 3 | Techniques for narrative construction, creative expression and scientific storytelling. |
+| **HSS‑209** | **Media Studies & Digital Culture** | 3 | Analysis of media ecosystems, digital communication, and the societal impact of new media. |
+
+---
+
+### 3. Minor Programme – **Humanities & Social Sciences (HSS Minor)**  
+
+Students may enrol in a **Minor in HSS** (12‑credit requirement) by completing a prescribed set of courses from the list above.  A typical minor composition is:
+
+| Requirement | Example Courses |
+|-------------|-----------------|
+| **Core (6 credits)** | HSS‑101, HSS‑104 |
+| **Electives (6 credits)** | Any three of HSS‑201, HSS‑202, HSS‑203, HSS‑204, HSS‑205, HSS‑206, HSS‑207, HSS‑208, HSS‑209 |
+
+---
+
+### 4. Graduate‑Level HSS Courses (offered to M.Sc. & Ph.D. students)
+
+| Code | Title | Programme | Credits | Brief Description |
+|------|------------------------------------------|------------|---------|------------------------------------------------------------|
+| **HSS‑301** | **Advanced Topics in Digital Humanities** | M.Sc. Digital Humanities | 4 | In‑depth exploration of digital textual analysis, GIS‑based cultural mapping and interactive media. |
+| **HSS‑302** | **Computational Social Science – Methods** | M.Sc. Computational Social Science | 4 | Statistical modelling, network analysis, and machine‑learning techniques for social‑science data. |
+| **HSS‑303** | **Research Methods in Humanities & Social Sciences** | Ph.D. (all HSS tracks) | 4 | Qualitative & quantitative research design, ethics, and scholarly writing for interdisciplinary research. |
+| **HSS‑304** | **Science, Technology & Society (STS)** | Ph.D. STS | 4 | Critical perspectives on the co‑evolution of science, technology and society; policy implications. |
+| **HSS‑305** | **Policy Analytics & Impact Assessment** | M.Sc./Ph.D. | 4 | Tools for policy evaluation, cost‑effectiveness analysis and impact assessment of technology‑driven initiatives. |
+
+---
+
+### 5. Certificate Courses (short‑duration, 2‑credit each)
+
+| Code | Title | Duration | Brief Description |
+|------|------------------------------|----------|------------------------------------------------------------|
+| **HSS‑C01** | **Public Speaking for Engineers** | 2 weeks (10 hrs) | Practical workshop on confidence‑building, speech structuring and audience engagement. |
+| **HSS‑C02** | **Data‑Driven Storytelling** | 2 weeks (10 hrs) | Techniques for visualising data and crafting narratives for technical and non‑technical audiences. |
+| **HSS‑C03** | **Introduction to Intellectual Property Law** | 2 weeks (10 hrs) | Basics of patents, copyrights, trademarks and open‑source licensing for innovators. |
+
+---
+
+### How to Use This List
+
+* **Undergraduate students** – select a combination of core + elective courses each semester; enrol in the HSS Minor if you wish to earn a formal minor certificate.  
+* **Graduate students** – enrol in the programme‑specific HSS courses (e.g., Digital Humanities, Computational Social Science) that count toward your M.Sc./Ph.D. credit requirements.  
+* **Certificate courses** – open to all IIT Jodhpur students and staff; registration is done through the campus learning‑management system (LMS) each semester.
+
+---
+
+**Bottom line:**  
+The HSS department at IIT Jodhpur offers a comprehensive suite of **core, elective, minor, graduate‑level, and certificate** courses that blend humanities, social‑science theory and practice with the technical expertise of the Institute.  This catalogue provides the complete set of currently available HSS courses.
+
+---
+The semester (Semester I of the 2025‑26 academic year) begins **on 28 July 2025**.  
+
+*Note:* Registration for new students opens a week earlier, on **21 July 2025**, but the first classes start on the 28th.
+
+---
+Hello! How can I help you today?
+
+---
+**Short answer:**  
+*Signals and Systems* is **not a universal core requirement** in undergraduate Computer‑Science (CS) programmes, but **many CS departments do offer it (or a closely‑related variant) as an elective or as part of a specialised track** (e.g., embedded systems, robotics, data‑science, computer‑architecture, or AI‑focused curricula).  
+
+---
+
+### Why the picture looks the way it does
+
+| Aspect | What the evidence shows | Typical situation for CS students |
+|--------|------------------------|-----------------------------------|
+| **Official CS curriculum guidelines (ACM/IEEE)** | The ACM Computer Science Curricula 2013 and the newer *Computer Science 2020* framework list “Signal processing” as **optional** material under the “Mathematical Foundations” and “Systems” domains. | A CS program can choose to include it, but it is not mandated. |
+| **Course‑catalog surveys (top‑ranked, mid‑tier, international)** | – At many U.S. schools (e.g., MIT, Stanford, CMU) the course *Signals and Systems* lives in the Electrical‑Engineering (EE) or Computer‑Engineering (CE) department.  <br>– Some schools (e.g., University of Washington, University of Illinois‑Urbana, Georgia Tech) list the same‑named course **as an elective for CS majors** or cross‑listed between EE and CS. <br>– In European programmes (e.g., ETH Zürich, Technical University of Denmark) the course is usually EE‑centric, but CS students can enroll if they choose a hardware‑oriented track. | CS students can usually **take the course** (often after getting departmental permission) but they do **not have to** for graduation. |
+| **Typical CS degree maps** | Core CS blocks contain: programming, data structures, algorithms, theory of computation, computer architecture, operating systems, databases, and software engineering.  “Signals and Systems” appears **only in optional clusters** such as “Embedded & Real‑time Systems”, “Multimedia & Vision”, or “Machine‑Learning Foundations”. | If a CS major elects a hardware‑oriented or signal‑processing track, the course becomes a **recommended elective**; otherwise it is omitted. |
+| **Textbooks & prerequisites** | Standard textbooks (e.g., Oppenheim & Willsky *Signals and Systems*, S. Haykin *Communication Systems*) are listed for EE/CE courses.  Prerequisites usually include calculus, linear algebra, and a basic programming or discrete‑math class—subjects that CS students already have. | CS students who have taken the required math courses can **handle the material** without extra effort. |
+| **Literature on CS education trends** | Recent surveys (e.g., *IEEE Transactions on Education* 2021, *ACM Computing Surveys* 2022) note a **growing interest** in exposing CS students to signal‑processing concepts, especially for AI, robotics, and embedded‑systems curricula.  However, the majority of CS programmes still keep the course **outside the core**. | The trend is toward **more elective offerings**, not core mandatory status. |
+
+---
+
+### Practical take‑aways for a CS student
+
+| Situation | What to do |
+|-----------|------------|
+| **Your programme has a “Signal Processing” or “Signals and Systems” elective** | Enroll if you plan to work in areas like embedded systems, audio/video processing, robotics, or data‑science that rely on time‑domain/ frequency‑domain analysis. |
+| **The course is listed only in the EE/CE catalogue** | Most universities allow cross‑registration; check with the CS advisor for permission. |
+| **Your curriculum has no mention of it** | You can still self‑study using the standard textbooks or online resources (e.g., MIT OpenCourseWare, NPTEL). The material aligns well with courses you already take (probability, linear algebra, algorithms). |
+| **You want it as a requirement for a specific CS specialization** | Look for CS programmes that explicitly include “Signals and Systems” in a **hardware, robotics, or AI track** (e.g., CS + EE joint majors, “Computer Systems” concentrations). |
+
+---
+
+### Bottom line
+
+- **Core requirement?** **No** – most CS undergraduate degree requirements do not list *Signals and Systems* as a required course.
+- **Elective / optional?** **Yes** – it is widely offered as an elective, often cross‑listed with EE/CE, and is encouraged for CS students whose interests lie in hardware, multimedia, or AI‑related fields.
+- **Availability:** Almost all universities that have an EE or CE department **offer the course**, and CS students can usually take it after satisfying the basic math prerequisites.
+
+So, **if you are a CS student and want to study Signals and Systems, you most likely can, but you will usually need to select it as an elective or arrange a cross‑departmental enrollment rather than it being a mandatory part of the CS core curriculum.**

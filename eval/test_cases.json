@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "query": "When does the semester start in July 2025?",
+        "expected_keywords": ["28 July", "2025"]
+    },
+    {
+        "id": 2,
+        "query": "What are the B.Tech programs offered?",
+        "expected_keywords": ["Computer Science", "Electrical", "Mechanical", "Bioengineering"]
+    },
+    {
+        "id": 3,
+        "query": "Is there a B.Tech in AI?",
+        "expected_keywords": ["AI and Data Science", "Artificial Intelligence"]
+    },
+    {
+        "id": 4,
+        "query": "Tell me about the M.Sc. programs.",
+        "expected_keywords": ["Chemistry", "Mathematics", "Physics", "Digital Humanities"]
+    },
+    {
+        "id": 5,
+        "query": "When is the mid-semester break in October?",
+        "expected_keywords": ["11-15 October", "Gandhi Jayanti"]
+    },
+    {
+        "id": 6,
+        "query": "What courses are offered by HSS?",
+        "expected_keywords": ["HSS", "Humanities"]
+    }
+]

@@ -1,0 +1,540 @@
+Source: http://intra.iitj.ac.in/acad_website/pg_curriculum/MTechSIoT_Updated_v4.8_04012023.pdf
+================================================================================
+
+Updated Program Structure for M Tech SIoT 
+Overall Program Structure  
+Category M. Tech. Core 
+(MC) 
+M. Tech. Elective 
+(ME) 
+M. Tech. Open 
+(MO) 
+M. Tech. Project 
+(MP) 
+Non-graded 
+(NG) 
+Total 
+Credits 20 16 6 16 4 62 
+Semester wise distribution of credits 
+Cat. Course Title L-T-P C  Cat. Course Title L-T-P C 
+ Bridge Course  on Introduction to  
+Programming#  
+1-0-2 2   
+I Semester  II Semester 
+MC Sensors and Measurement 2-0-0 2  MC Data Communication and 
+Networking 
+2-0-2 3 
+MC Introduction to IoT Systems 2-0-2 3  MC Hardware Software Co -
+Design  
+3-0-2 4 
+MC Microsystem Fabrication 
+Technology 
+2-0-2 3  ME Program Elective-2 3-0-0 3 
+MC Analog and Interfacing Circuits  3-0-2 4  ME Program Elective-3 3-0-0 3 
+ME Program Elective-1 3-0-0 3  ME Program Elective-4 3-0-0 3 
+NG  Technical Communication 1-0-0 1  NG Innovation and IP 
+Management 
+1-0-0 1 
+Total 16  Total 17 
+Winter Term     
+MC Winter Internship 1    
+Total 1    
+III Semester  IV Semester 
+MP Project-1 0-0-12 6  MP Project-2 0-0-20 10 
+ME Program Elective-5 3-0-0 3  MO Open Elective-2 3-0-0 3 
+ME Program Elective-6 1-0-0 1  NG Professional Ethics 1-0-0 1 
+MO Open Elective-1 3-0-0 3      
+NG System Engineering and Project 
+Management 
+1-0-0 1      
+Total 14  Total 14 
+  #Satisfactory grade in the bridge course will be ma ndatory for students to be able to participate in on -
+campus placements  
+List of Program Electives 
+ 
+Course Title L-T-P Credi
+ts 
+ Course Title L-T-P Credits 
+Digital VLSI Design 3-0-0 3  Microfluidics Technology 3-0-0 3 
+Flexible and Printed Electronics 3-0-0 3  Real Time Communications 3-0-0 3 
+Antenna Engineering 3-0-0 3  Mobile and Pervasive Computing 3-0-0 3 
+Wireless Communication 3-0-0 3  RF IC Design Lab 1-0-2 2 
+Neuromorphic Computing and 
+Design 
+3-0-0 3  Introduction to Wireless Ad Hoc 
+Networks 
+3-0-0 3 
+Advanced Digital Signal Processing 3-0-0 3  Software Defined Networks 3-0-0 3 
+Fog and Edge Computing 3-0-0 3  Intelligent Radio Networks 3-0-2 4 
+Vehicular Ad Hoc Networks 3-0-0 3  Computation Oriented 
+Communications 
+3-0-0 3 
+Machine Learning  3-0-0 3  Selected Topics in Sensors & IoT I 1-0-0 1 
+Image Sensor Design and 
+Applications 
+3-0-0 3  Selected Topics in Sensors &  IoT 
+II 
+2-0-0 2 
+Nano Sensors 3-0-0 3  Selected Topics in Sensors &  IoT 
+III 
+3-0-0 3 
+Industry 4.0 Applications in 
+Manufacturing Systems 
+1-0-0 1  UAV Assisted Wireless Networks 3-0-0 3 
+Resource Constrained AI 3-0-0 3  Intelligent Buildings 3-0-0 3 
+Statistical Methods for Data Analysis 3-0-0 3  Design and Analysis of 
+Communication Networks 
+3-0-2 4 
+Energy Harvesting*    Advanced MEMS*   
+Structural Health Monitoring*    Advanced Biosensors*   
+Point of care devices/diagnostics*    MEMS for Medical Devices*   
+Industrial IoT*    5G Technologies for IoT*   
+IoT Security*    IoT in Industry 4.0*   
+Digital Signal Processing and 
+Applications* 
+   Digital Twins*   
+*New elective courses to be designed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Detailed Course Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Course Title  Sensors and Measurements  Number  EEL7XX0 
+Department  Electrical Engineering  L-T-P [C]  2–0–0 [2]  
+Offered for  M. Tech. 1st year  Type  Compulsory  
+Pre-requisite  Semiconductor Devices       
+Objective  
+The Instructor will:  
+1. Introduce the students to sensors, as transducers from physical parameters to signals  
+2. Explain the sensing principles for displacement, force, pressure, acceleration, temperature, 
+optical radiation, nuclear radiation  
+3. Explain the sensor range, sensitivity, accuracy, repeatability, noise  
+  
+Learning Outcomes  
+Students are expected to have the ability to  
+1. Understand fundamental principles of sensing technology,   
+2. Design various sensors and their applications  
+3. Comprehend Non-destructive characterization methods  
+  
+Contents  
+EEL7XX1: Sensor characteristics [1-0-0]  
+     Definitions, terminology, classification, Static vs dynamic properties of transducers, Transfer 
+functions, Ideal and realistic transducer models (4 lectures) 
+     Resolution, linearization, dynamic range, detection threshold, Selectivity & sensitivity, 
+Calibration, Errors of the experimental measurements (4 lectures)  
+     Physical Principle of Sensi ng: Resistance, Capacitance, Piezoelectric effect, Pyroelectric effect, 
+Hall effect, Thermal and Optical phenomenon (6 lectures)  
+ 
+EEL7XX2: Sensor Interface and Applications [1-0-0]  
+     Input characteristics of interface circuits, Amplifiers, Light to voltage converters,  
+Capacitance to voltage converters, Bridge Circuits, Excitation circuits (4 lectures)  
+Case Studies:  
+Inertial Sensors (Accelerometer & gyroscope) (3 lectures) 
+Smart building Sensors (Smoke & occupancy sensors) (3 lectures) 
+Healthcare Sensors (Glucometer, Oximeter, ECG & MRI) (4 lectures) 
+ 
+Indicative Assignments: 
+Read-out interface circuit design for various sensors like Accelerometers, Gyroscope, Gas, Smoke, 
+Occupancy sensors, etc. keeping various applications in view. 
+ 
+Text Books  
+1. Jacob Fraden, (2010), Handbook of Modern Sensors, 5th Edition, Springer.  
+2. J. W. Gardner, (1996), Microsensors, Principles and Applications, 1st Edition, Wiley.  
+3. S. M. Sze, (1994), Semiconductor Sensors, 1st Edition, Wiley.  
+ 
+ 
+ 
+  
+Title Introduction to Internet of Things Systems Number EEL7XX0 
+Department Electrical Engineering L-T-P [C] 2–0–2 [3] 
+Offered for M. Tech. 1st year Type Compulsory 
+Prerequisite    
+ 
+Objectives  
+The Instructor will: 
+1.  Provide overview of applications of IoT and relevant technologies 
+ 
+Learning Outcomes 
+The students are expected to have the ability to: 
+1.  Identify and integrate different components required for IoT applications 
+ 
+Contents  
+EEL7XX1: IoT Systems Architecture 
+Sensing, Actuation, Basics of IoT Networking (4 Lectures) 
+IoT Architecture, Communication Protocols for IoT (4 Lectures) 
+Sensor Networks: Wireless Sensor Network, Sensor nodes (2 Lectures) 
+Machine to machine Communication: Introduction, Node types and M2M Applications, Integration of 
+Sensors and Actuators for Implementation of IoT (4 Lectures) 
+ 
+EEL7XX2: Embedded Computing and IoT Applications 
+Introduction to Raspberry Pi and other MCUs used in IoT (4 Lectures) 
+Software defined IoT Networking (2 Lectures) 
+Introduction to Cloud, Fog, and Edge Computing (4 Lectures)  
+IoT Us e Cases - Smart cities and Smart homes, Industrial IoT, Healthcare IoT, Smart Grid (4 
+Lectures) 
+ 
+Lab Component 
+The lab course will be dependent on the various core and elective components of the program. There 
+will be a scope for modifying the contents dep ending on the recent developments in technology. 
+Experiments from some of the following topics will be part of this lab.  
+• Implementation of Signal Conditioning Circuits  
+• Implementation of IoT components using Hardware/Software 
+• Sensor interfacing using off-the-shelf components 
+• Programming of MCUs used in IoT like Raspberry Pi 
+• Implementation of real time examples of IoT using Embedded Systems 
+• Introduction to EDA tools, hardware-software co-design, computational models in Embedded 
+design. 
+ 
+Indicative Assignments: 
+The assignments will involve programming of MCUs using C and Python. These programming 
+assignments will complement the lab sessions. 
+ 
+Textbook  
+1. Kamal, R., (2017) , Internet of Things - Architecture and Design Principles , 1st Edition, Mcgraw 
+Hill. 
+ 
+Preparatory Course Material  
+1. Misra, S., Introduction to Internet of Things , NPTEL Course Material, Department of Computer 
+Science and Engineering, Indian Institute of Technology Kharagpur, 
+https://nptel.ac.in/courses/106105166/ 
+  
+Course Title Microsystems Fabrication Technology Course No. EEL7XX0 
+Department Electrical Engineering L-T-P [C] 2–0–2 [3] 
+Offered for M. Tech. (Sensors and IoT) Type Core 
+Pre-requisite Semiconductor Devices  To take effect from 2020 
+ 
+Objective 
+1. To introduce the essentials of micro -electronics fabrication technology required for the realization 
+of MEMS and integrated circuits  
+2. To introduce the basic concepts of MEMS based sensors and actuator design, process integration 
+and advanced micro-machining technologies for high aspect ratio MEMS structures.   
+3. To expose the students with semiconductor/ MEMS unit processes and their integration.  
+ 
+Learning Outcomes 
+Students will have the capability to: 
+1. Comprehend the unit fabrication processes for MEMS and ICs  
+2. Design and fabricate MEMS based sensors and actuators  
+ 
+Contents 
+Unit processes common to IC and MEMS fabrication:  
+(i) Clean room practices, substrate pre-processing, thermal oxidation, diffusion. (3 lectures) 
+(ii) Photolithography, Thin Film deposition (CVD, PVD) and Etching (dry and wet). (5 lectures) 
+ 
+Unit processes specific to MEMS:  
+(i) Surface and bulk micro-machining, DRIE (4 lectures) 
+(ii) Thick film deposition, wafer bonding, and MEMS packaging. (4 lectures)    
+ 
+Case studies of MEMS: 
+(i) Basic concepts of MEMS sensing and actuation. Process design/ integration (6 lectures)  
+(ii) Aspects for selected ME MS based sensors and actuators including  Comb drives, pressure 
+sensor, Biochemical sensors. (6 lectures)    
+ 
+Lab Component (14 Sessions):   
+(i) Introduction to layout design tools for various device layers generation, Materials selection aspects 
+and Process integration considerations for selected MEMS based transducers.  
+(ii)Experiments related various unit processes (like Metal deposition, Photolithograp hy and etching), 
+their integration, related measurements and their optimization aspects. 
+  
+Indicative Assignments: Process flow design and layout designing of various layers for the  
+fabrication of micro-heaters, beams, cantilever, diaphragms, comb-drives, etc. for micro sensors. 
+ 
+Text books: 
+1. Tai-Ran Hsu, (2017), MEMS & Microsystems Design and Manufacture , Indian Edition, Tata 
+McGraw-Hill 
+2. J. D. Plummer, M. D. Deal, and P. B. Griffin (2009), Silicon VLSI technology: Fundamentals, 
+practice, and modelling, 1st Edition, Prentice Hall 
+ 
+Self study and Reference material 
+1. M. Bao, (2005), Analysis and Design Principles of MEMS Devices, 1st Edition, Elsevier  
+2. Marc J. Madou, (2011), Fundamentals of Microfabrication and Nanotechnology: The Science of 
+Miniaturization, 3rd Edition, CRC Press. 
+3. M. Sze, (2003), VLSI Technology, 2nd edition McGraw Hill Education. 
+4. S. D. Senturia, Microsystem Design (2013), 1st Edition, Springer 
+ 
+  
+Course Title  Analog and Interfacing Circuits Number EEL7XX0 
+Department Electrical Engineering L-T-P [C] 3–0–2 [4] 
+Offered for M. Tech. 1
+st 
+year  Type Compulsory 
+Pre-requisite Digital and Analog Electronics    
+ 
+Objectives 
+The Instructor will: 
+1. Familiarize students with the concepts of Analog IC Design and give them a comprehensive overview 
+of various amplifiers. 
+2. Familiarize the students with different building blocks of a mixed signal interface circuit design 
+essential for sensors and IoT. 
+ 
+Learning Outcomes 
+Students are expected to have the ability to: 
+1. Understand fundamental principles of CMOS Analog  IC Design and interfacing of analog signals with 
+the digital signal processing circuits. 
+2. Apply the circuit design fundamentals for IoT applications. 
+3. Work on design tools like Cadence/Mentor Graphics 
+ 
+Contents 
+Introduction to Analog VLSI and design issues in CMOS technologies, MOS models and SPICE Models [3 
+lectures] 
+Single stage amplifiers, Biasing circuits, Voltage and Current reference circuits, Feedback analysis, 
+Multistage amplifiers [6 lectures] 
+Differential amplifiers, Mismatch and noise analysis, (6 Lectures) 
+Switch capacitor circuits: Principles and applications in filter design; switches and related design issues 
+[3 lectures] 
+Variable gain amplifier, Instrumentation amplifier, low noise and high speed amplifier topologies [3 
+lectures] 
+Analog to digital converters: Types, static and dynamic characteristics; track and hold, and sample and 
+hold circuits; comparators; [6 lectures] 
+Detail design analysis for successive approximation register (SAR) ADCs, [3 lectures]  
+Digital to Analog Converters: Voltage -based DACs; charge -based DACs; current - based DACs – binary 
+and thermometer currents (3 Lectures) 
+Phase-locked loop: Basics; PLL dynamics; voltage controlled oscillator, frequency synthesis [5 lectures]  
+Communication ports and devices [3 lectures] 
+Applications: Wearable Biomedical IoT nodes [1 Lecture] 
+ 
+Lab Experiments:  It will include design and analysis of various analog and interfacing circuits like 
+single stage and instrumentational amplifiers, signal conditioning circuits like preamplifier, variable ga in 
+amplifiers, followed by comparators and data converters. 
+ 
+Indicative Assignments:  Analysis of cascaded and cascoded amplifier topologies in terms of  gain, 
+input and output impedance with and without feedback, switch capacitor circuit design and  issues, 
+comparators and voltage controlled oscillators. The theoretical calculations will be verified  through 
+different simulations performed using Cadence design tool. 
+ 
+Text Books 
+1. Razavi, B., (2016), Design of Analog CMOS Integrated Circuits, 2nd Edition, McGraw-Hill Education. 
+2. R. Jacob Baker, H.W.Li, and D.E. Boyce, (2009), – CMOS Circuit Design ,Layout and Simulation , 2nd 
+  
+Edition, Prentice-Hall of India 
+3. David A. Johns, Ken Martin, (2013), “Analog Integrated Circuit Design”, 2 nd Edition, John Wiley and 
+Sons. 
+ 
+Self Learning material 
+1. Shanthi Pavan, VLSI Data Conversion Circuits, NPTEL Course Material, Department of Electrical 
+Engineering, Indian Institute of Technology Madras, https://nptel.ac.in/courses/117106034/ 
+2. Nagendra Krishnapura, Analog Integrated Circuit Design, Department of Electrical Engineering, 
+Indian Institute of Technology Madras, https://nptel.ac.in/courses/117106030/ 
+ 
+Preparatory Course Material 
+1. P. E. Allen, D. R. Holberg (2013), CMOS Analog Circuit Design, 3rd Edition, Oxford University Press. 
+2. R. Gregorian, G. C. Temes, (2008), “ Analog MOS Integrated Circuits for Signal Processing ”, John 
+Wiley and Sons. 
+Title Data Communication and Networking Number EEL7XX0 
+Department Electrical Engineering L-T-P [C] 2–0–2 [3] 
+Offered for M. Tech. 1st Year Type Compulsory  
+Prerequisite Fundamentals of Wireless Communications, 
+Probability Theory and Random Process 
+  
+Objectives  
+The Instructor will: 
+1.  Expose the students to distinguished features of Wireless Networks. 
+ 
+Learning Outcomes  
+The students are expected to have the ability to: 
+1. Design and optimize wireless network architectures 
+2. Develop end -to-end IoT applications utilizing suitable data communic ation and networking 
+technologies 
+ 
+Contents  
+Fundamentals (4 Lectures):  
+ Overview of the communication layers’ architecture (1 Lecture) 
+ QoS parameters, Data communication technologies: QoS perspective and layer-wise technologies 
+used (3 Lectures) 
+Network Deployment and Management (3 Lectures):  
+ Network Topologies (1 Lecture) 
+ Node/network localization and deployment map generations (2 Lectures)  
+MAC Layer Analysis (7 Lectures): 
+ Markov process, Single and Multi-Server Queues (M/M/1, M/M/c) with finite and infinite queue 
+sizes (3 Lectures) 
+ Contention and contention-free channel access mechanisms (2 Lectures) 
+ Performance modeling and analysis of CSMA/CA with finite packet queues (2 Lectures) 
+Network Layer Analysis (8 Lectures):  
+ Design constraints, Bounded latency networks (2 Lectures) 
+ Routing algorithms - Analysis and optimization (3 Lectures) 
+ Self-organizing Networks (1 Lecture) 
+ Motivation for cross-layer protocol design (2 Lectures) 
+Transport Layer (2 Lectures): 
+ TCP, UDP, Congestion Control 
+Discussion on Recent Advancements (4 Lectures) 
+ Introduction to NFV, Network slicing (2 Lectures) 
+ Energy efficient protocols and energy harvesting techniques (2 Lectures) 
+ 
+Lab Component (14 sessions): 
+ Introduction to existing simulation tools, and hands on-session for Simulation Tool  
+ NS3 simulations for MAC layer and Network layer performance analysis for WPANs  
+ Analytical and Simulation co-validation for MAC and Network protocols 
+ End-to-End IoT Application Development (Multi-node multi-parameter sensing system 
+development, Edge processing, RF communication, Cloud integration, Data analytics and alerts)   
+ 
+Indicative Assignments and Self-Study Components: 
+ Assignments on MAC layer analysis, network layer analysis, and transport layer using tools such 
+as Wireshark, NS3 will be provided 
+ Self-study topics include deeper analytical analysis of MAC layer, network layer, and transport 
+layer protocols will be suggested. 
+ 
+Textbook: 
+1. Dargie, W., and Poellabauer, C., (2010), Fundamentals of Wireless Sensor Networks: Theory and 
+Practice, Wiley 
+2. Stallings, W., (2007), Data and Computer Communications, 8th Edition, Pearson  
+3. Bertsekas, D. P. and Gallager, R. G., (1992), Data Networks, 2nd Edition, Prentice Hall  
+4. Stallings, W., High -speed Networks and Internets: Performance and Quality of Service, 2 nd 
+Edition, Prentice Hall 
+Reference Book 
+1. Ian F. Akyildiz and Mehmet Can Vuran, (2010), Wireless Sensor Networks, A John Wiley and Sons 
+Ltd. Publication. 
+  
+Course Title  Hardware Software Co-Design Number   EEL7XX0 
+Department Electrical Engineering L-T-P [C] 3–0–2 [4] 
+Offered for M. Tech. 1st year Type Compulsory 
+Pre-requisite Digital Logic and Design   
+ 
+Objectives 
+The Instructor will: 
+1. Make the students analyze the functional and nonfunctional performance of system early 
+in the design process to support design decisions. 
+2. Make the students appreciate issues in system-on-chip (SoC) design associated with co- 
+design, such as intellectual property, reuse, and verification. 
+3. Explain the hardware, software, and interface synthesis  
+ 
+Learning Outcomes 
+The students are expected to have the ability to: 
+1. Analyze hardware/software trade-offs, algorithms, and architectures to optimize the 
+system based on requirements and implementation constraints. 
+2. Understand issues in interface design. 
+3. Use co-simulation to validate system functionality. 
+ 
+Contents 
+Introduction to ASIC design, combinational and sequential circuit design process (design using 
+Verilog and VHDL), Finite state machines, Modelling styles and their applications ( Concurrency, 
+Communication and Computation models), RTL and memory models, Brief introduction to interfacing 
+circuits/systems connecting analog & digital world, Motivation for HW/SW co-design (Embedded 
+controller application etc.) (7 lectures) 
+Programmable logic devices and FPGAs: PALs, PLDs, FPGA programming concepts and techniques, 
+design synthesis using FPGA kits, Design optimization techniques (5 lectures) 
+System-level and SoC design methodologies and tools; HW/SW co-specification and co-design (co-
+design Finite state machines, CFSM)  principles: analysis, partitioning, real-time scheduling (7 
+lectures) 
+Hardware acceleration; Virtual platform models, co-simulation methodologies and FPGAs for 
+prototyping of HW/SW systems (5 lectures);  
+Transaction-Level Modeling (TLM), Electronic System-Level (ESL) languages, UML:SystemC, Design 
+development with SystemC; (5 lectures) 
+High-Level Synthesis(HLS) and associated optimization techniques at each stage: allocation, 
+scheduling, binding, resource sharing, pipelining, co-synthesis methods (6 lectures);  
+SoC and IP integration issues (on-chip bus, network-on-chip) and optimization for resource-
+constrained operation in different usage environments, Introduction to SoC verification, test & pre -
+/post-silicon debug methodologies, ARM-based System-on-Chip Design Techniques with HW/SW 
+approach, One practical SoC design case  study in complete detail (7  lectures) 
+ 
+ Lab Component:  Interfacing, data analytics and data processing of different types of sensors at 
+the system level using FPGA, system level implementation of various digital correction and 
+calibration techniques. This will internally include combinational circuit and sequential logic design, 
+clock issues and timing constraints. Application-specific System/Processor Design and Simulation, 
+SystemC -based Microprocessor & Accelerator design implementation, performance evaluation and 
+optimization, On-chip interconnect network analysis (e.g.- Network-on-chip simulation), Realization 
+of co-designed HW system on FPGA board(s) and analysis of observed results ( complete project 
+beginning from co-specification to co-design, co-synthesis and verification) 
+ 
+Indicative Assignments: (a) Design of moderately complex system (e.g.- sequence detector/ 
+router/ multi-level elevator controller) in any HDL and its simulation using Modelsim (Mentor)/ 
+GHDL(open source)/ Icarus(open source)/ VCS (Synopsys) tools  
+(b) Implementation of designed system on FPGAs using Quartus/ Xilinx Vivado tools  
+(c) Implementation of partitioning/scheduling algorithm in Python/C 
+(d)  Realization of RTL synthesis with Yosys(open source)/ RTL Compiler(Cadence)/ Design 
+Compiler(Synopsys) tools 
+(e) Implementing standalone designs in SystemC, its compilation, simulation and debug.  
+ 
+ 
+Text Books 
+1. Jørgen Staunstrup, Wayne Wolf (1997), Hardware/Software Co-design: Principles and Practice, 
+Springer 
+2. Unsalan, C., Tar, B., (2017), Digital System Design with FPGA Implementation Using Verilog 
+and VHDL, McGraw-Hill 
+3. D. Black, J. Donovan, (2010), SystemC: From the Ground Up, 2 nd Edition, Springer 
+4. D. Gajski, S. Abdi, A. Gerstlauer, G. Schirner, (2009), Embedded System Design: 
+Modeling, Synthesis, Verification, Springer 
+ 
+Preparatory Course material 
+1. Nelson, V.P., Carroll, B.D., Nagle, H.T., Irwin, J.D., (2020), Digital Logic Circuit analysis and 
+Design, 2nd Edition, Pearson 
+2. G. De Micheli, (2017), Synthesis and Optimization of Digital Circuits, McGraw-Hill. 
+ 
+  
+Title Introduction to Programming Number EEP5XXX 
+Department Electrical Engineering L-T-P [C] 1-0-2 [2] 
+Offered for MTech (CPS and SIoT) Type Bridge Course 
+Prerequisite --   
+ 
+Objectives 
+To familiarize students with the basics and applications of programming using C and Python  
+ 
+Learning Outcomes 
+On completion, the student should be able to 
+ implement mathematical and algorithmic concepts using C/Python 
+ apply programming concepts to various applications, such as numerical analysis, dynamical 
+system analysis, etc. 
+ 
+Contents 
+Programming in C [11 Lectures] 
+C Compiler setup and Execution in Windows and Linux, Data Types, Operators and Expressions, 
+Decision and Control Statements [3 lectures] 
+Arrays – Single and Multi-Dimensional, Pointers, Functions, Data Structures [5 lectures] 
+Dynamic Memory Allocation, Working with files, Using gcc and gdb + Introduction to Eclipse IDE and 
+debugging [3 lectures] 
+ 
+Python [3 Lectures] 
+Fundamentals of Python, File Handling, String processing, Function definition, Dictionaries & Tuples, 
+Iterators, Numpy 
+ 
+Lab Exercises 
+ Implementation of basic concepts 
+ Applications, such as solving dynamical systems using differential equations  
+ Numerical applications in C/Python 
+ 
+Textbook(s) 
+1. Kanetkar, Y. (2016), Let us C, 17th edition, BPB Publications 
+2. Balagurusamy (2013), Data Structures Using C, Tata McGraw-Hill Education 
+3. Brown, M.C. (2018), Python: The Complete Reference, 4th Edition, McGraw Hill Education 
+4. Press, W. H., Teukolsky, S. A., Vetterling, W. T., & Flannery, B. P. (1988), Numerical recipes in 
+C, Cambridge University Press 
+ 
+Self-Learning Material 
+1. Weller, D., and Chikkerur, S. (2010), 6.087 Practical Programming in C. January IAP 2010, 
+Massachusetts Institute of Technology: MIT OpenCourseWare, 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-
+programming-in-c-january-iap-2010/  
+2. Iyengar, S (2018) The Joy of Computing using Python, 
+https://nptel.ac.in/courses/106/106/106106182/   
+ 
+ 
+ 
+*Students who successfully demonstrate the ability to implement concepts and numerical algorithms 
+would be awarded the Satisfactory grade. Students should be able to complete all programming 
+assignments. 
+ 
