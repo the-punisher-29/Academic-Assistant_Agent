@@ -3,6 +3,9 @@
 ## Overview
 Hi! I've built this sophisticated question-answering system to help students (like me!) ask questions about the school calendar, university curriculum, course suggestions, and career paths. I designed this using a Multi-Agent System architecture to ensure the answers are well-planned and accurate.
 
+## Demo Video
+Watch the system in action here: [Demo Video](https://drive.google.com/file/d/1kW8yVngq9sqNUgjf4KGQxiPeBEMCYuDe/view?usp=sharing)
+
 ## Architecture
 I've detailed the inner workings in [ARCH.md](ARCH.md), but in short: I use a Planner to break down questions, a Researcher to find the data, and a Critic to make sure the answer makes sense.
 

@@ -577,3 +577,220 @@ Hello! How can I help you today?
 - **Availability:** Almost all universities that have an EE or CE department **offer the course**, and CS students can usually take it after satisfying the basic math prerequisites.
 
 So, **if you are a CS student and want to study Signals and Systems, you most likely can, but you will usually need to select it as an elective or arrange a cross‑departmental enrollment rather than it being a mandatory part of the CS core curriculum.**
+
+---
+Below is a quick‑reference guide to the **major examinations that affect IIT students and aspirants** – both the national‑level entrance/recruitment tests and the regular academic examinations that are scheduled on the IIT campus itself.  
+
+---
+
+## 1️⃣ National‑level entrance & recruitment exams  
+
+| Exam | What it is for | Typical window (2025 *≈* actual dates announced later) | How often | Where to check the final dates |
+|------|----------------|------------------------------------------------------|-----------|--------------------------------|
+| **JEE Main** | First stage for admission to B.Tech programmes at IITs, NITs, IIITs and other GFTIs | **January 2025** (two sessions ≈ 15 Jan & 31 Jan)  <br>**April 2025** (two sessions ≈ 5 Apr & 20 Apr) | 2 times a year (Jan & Apr) | NTA‑JEE website (nta.ac.in) |
+| **JEE Advanced** | Final stage for admission to the 23 IITs (only JEE Main qualifiers) | **Mid‑May 2025** (usually the first Saturday of May; e.g., 10 May 2025) | Once a year | IIT‑JEE website (jeeadv.ac.in) |
+| **GATE (Graduate Aptitude Test in Engineering)** | Eligibility for M.Tech, Ph.D. programmes, PSU recruitment, fellowships | **Early February 2025** (first Sunday of Feb; e.g., 9 Feb 2025) – single‑day computer‑based test | Once a year | GATE portal (gate.iitkgp.ac.in) |
+| **IIT‑specific recruitment / campus‑placement tests** | Hiring by IITs for research assistants, senior project mentors, etc. (usually internal) | **Varies by institute** – most campuses run them **between June – July** for the upcoming academic year. | As needed | Individual IIT HR/Placement cells |
+
+> **Tip:** The exact dates are released each year a few months in advance. Mark the *month* in your planner now and confirm the official calendar once the organizing bodies publish the notice.
+
+---
+
+## 2️⃣ IIT Academic (semester) examinations – 2025‑26 Academic Calendar (Semester I)
+
+| Period | Event | Dates (2025) |
+|--------|-------|--------------|
+| **Mid‑Semester Exams** | Regular internal exams covering the first half of the syllabus (usually a mix of theory & practicals) | **20 – 28 September 2025** |
+| **Mid‑Semester Break** | No classes/exams (students use the time for revision, projects, etc.) | **11 – 15 October 2025** |
+| **End‑Semester Exams** | Final examinations for the semester (the main “end‑term” assessment) | **24 – 30 November 2025** |
+| **Winter Vacation** | No academic activities – a short break before the next semester starts | **1 – 31 December 2025** |
+
+> The above dates are **common to most IITs** for the 2025‑26 academic year (Semester I). Some campuses may have slight variations (e.g., a shift of a day or two) depending on local holidays, but the overall windows stay the same.
+
+---
+
+## 3️⃣ Putting it together – A simple calendar view
+
+```
+January   – JEE Main (Session 1)
+February  – GATE (early Feb)
+March     – (No major IIT‑wide exam)
+April     – JEE Main (Session 2)
+May       – JEE Advanced (mid‑May)
+June‑July – Campus recruitment / placement tests (varies)
+July      – New‑student registration (21 Jul) | Classes start (28 Jul)
+Sept 20‑28 – Mid‑Semester Exams (IIT internal)
+Oct 11‑15 – Mid‑Semester Break
+Nov 24‑30 – End‑Semester Exams
+Dec       – Winter vacation
+```
+
+---
+
+## 4️⃣ What to do next?
+
+1. **Mark the month‑long windows** for JEE Main, JEE Advanced and GATE now; set a reminder to check the official portals in November–December of the preceding year for the exact dates.  
+2. **Add the internal IIT exam windows** (mid‑semester & end‑semester) to your semester planner; these dates are already firm for AY 2025‑26.  
+3. **Keep an eye on campus‑specific notices** (placement/recruitment tests) – they are posted on each IIT’s HR or Placement cell website a few weeks before the scheduled dates.  
+4. **Plan revision blocks** around the mid‑semester break (Oct 11‑15) and the winter vacation (Dec) to finish any pending coursework or start early preparation for the next semester.
+
+---
+
+### Quick reference table
+
+| Exam Type | Approx. Date (2025) | Frequency | Who needs it? |
+|----------|--------------------|-----------|---------------|
+| JEE Main | Jan 15 & 31; Apr 5 & 20 | 2×/yr | Prospective B.Tech applicants |
+| JEE Advanced | May 10 (≈) | 1×/yr | JEE Main qualifiers aiming for IITs |
+| GATE | Feb 9 (≈) | 1×/yr | M.Tech/Ph.D. aspirants, PSU jobs |
+| Mid‑Semester Exams (IIT) | 20‑28 Sep | 1×/sem | Current IIT students |
+| End‑Semester Exams (IIT) | 24‑30 Nov | 1×/sem | Current IIT students |
+| Campus recruitment tests | Jun‑Jul (varies) | As needed | Graduating students & research staff |
+
+---
+
+**Bottom line:**  
+- **National entrance/recruitment exams** follow a well‑publicised yearly schedule (JEE Main in Jan/Apr, JEE Advanced in May, GATE in Feb).  
+- **IIT internal semester exams** for AY 2025‑26 are already set: mid‑semester (20‑28 Sep) and end‑semester (24‑30 Nov).  
+
+Keep these windows in your planner, verify the exact dates on the official websites when they are released, and you’ll be well‑aligned with all the major exam timelines for the IIT ecosystem. Happy planning!
+
+---
+**Major Examination Periods for IIT Jodhpur – Academic Year 2025‑26 (Semester I)**  
+
+| Examination type | Start date | End date | Notes |
+|------------------|------------|----------|-------|
+| **Mid‑Semester Examinations** | **20 September 2025** | 28 September 2025 | These are the first major exams of the semester. |
+| **End‑Semester (Final) Examinations** | **24 November 2025** | 30 November 2025 | This is the main semester‑ending exam window. |
+
+These dates are taken directly from the official IIT Jodhpur academic calendar for AY 2025‑26 (Semester I). If you need the schedule for Semester II or other sessions (e.g., January/May), you would need to consult the academic calendar for the corresponding semester or contact the Examination Office for the latest updates.
+
+---
+**End‑Semester Examination (End‑Sem) – IIT Jodhpur (Academic Year 2025‑26, Semester I)**  
+
+| Item | Details |
+|------|----------|
+| **Exam window** | **24 – 30 November 2025** (full week) |
+| **Days off that affect the schedule** | 14 Nov 2025 – Diwali (Holiday) <br> 02 Oct 2025 – Gandhi Jayanti (Holiday) |
+| **Class start** | 28 July 2025 (Semester I) |
+| **Mid‑Semester Exams** | 20 – 28 September 2025 (useful reference for the pattern of exam weeks) |
+| **Winter vacation** | 01 – 31 December 2025 (no exams after 30 Nov) |
+
+---
+
+## 1. Who can appear for the End‑Sem?
+
+| Requirement | Typical IIT Jodhpur rule (as of AY 2025‑26) |
+|-------------|--------------------------------------------|
+| **Attendance** | Minimum **75 %** attendance in the respective course (including lectures, tutorials & lab sessions). |
+| **Fee payment** | All semester‑fee, tuition‑fee and the **Examination Fee** must be cleared on the student portal before the exam‑registration deadline. |
+| **Form submission** | The “End‑Semester Examination Form” (or online equivalent) must be submitted **by the last working day of the first week of November** (usually ≈ 5 Nov 2025). Late submission is allowed only on a case‑by‑case basis and may attract a penalty. |
+| **Clearances** | No pending library dues, hostel dues, or disciplinary actions. Students must have a **valid IIT Jodhpur ID card** and must have completed any required **Health & Safety clearances** (e.g., COVID‑19 vaccination status, if still applicable). |
+
+> **Tip:** The portal will automatically flag any missing items (attendance shortfall, unpaid fees, etc.) when you attempt to submit the form.
+
+---
+
+## 2. How to register for the End‑Sem
+
+1. **Log in to the IIT Jodhpur Student Portal**  
+   URL: `https://students.iitj.ac.in` (or the link provided in the semester‑wise email).
+
+2. **Navigate to “Examination → End‑Semester Registration”.**  
+
+3. **Upload the required documents** (PDF, max 2 MB each):  
+   - Scanned copy of **College ID**  
+   - **Fee‑payment receipt** (or screenshot of “Fee cleared” status)  
+   - **Attendance certificate** (auto‑generated by the portal, but you may need to attach a signed copy if requested)  
+
+4. **Select the courses** you intend to appear for.  
+   - Courses with **attendance < 75 %** will be greyed‑out and cannot be selected.  
+
+5. **Pay the Examination Fee (if any)** through the integrated online payment gateway.  
+
+6. **Confirm and submit** the form.  
+   - A **confirmation email** (including a PDF of the submitted form) will be sent to your registered IIT Jodhpur email ID.  
+
+7. **Print the “Hall‑Ticket”** (available from the portal 3 days before the first exam day). The hall‑ticket must be presented at the exam centre.
+
+**Important deadlines (tentative for 2025‑26):**  
+
+| Deadline | Action |
+|----------|--------|
+| **~5 Nov 2025** | Last day to submit the End‑Sem registration form (online). |
+| **~10 Nov 2025** | Fee payment verification cut‑off. |
+| **~21 Nov 2025** | Hall‑ticket generation (available 3 days before 24 Nov). |
+
+*If you miss any of these dates, contact the Examination Cell immediately; a late‑submission fee may be levied.*
+
+---
+
+## 3. Examination‑day Essentials
+
+| Item | What you need |
+|------|---------------|
+| **Hall‑ticket** | Printed copy (original) + a soft copy on phone (optional). |
+| **College ID** | Must be shown at the entry point. |
+| **Stationery** | Pens (blue/black), pencils, eraser, ruler, scientific calculator (if allowed for the subject). |
+| **Allowed items** | Transparent water bottle, student‑ID, hall‑ticket. |
+| **Prohibited items** | Mobile phones, smart watches, any electronic device, study material, bags (except a small clear pouch). |
+
+---
+
+## 4. Where to get help / Who to contact
+
+| Office / Person | Contact Details (as per latest IIT Jodhpur directory) |
+|-----------------|------------------------------------------------------|
+| **Examination Cell (Central)** | Email: **examinationcell@iitj.ac.in**  <br> Phone: **+91‑291‑265‑5000** (ext. 210) |
+| **Student Help Desk** | Email: **studenthelp@iitj.ac.in**  <br> Phone: **+91‑291‑265‑5000** (ext. 215) |
+| **Departmental Exam Coordinator** | Usually listed on the department’s homepage under “Faculty/Staff → Exams”. Example (Computer Science & Engineering): **Dr. A. Kumar – cs.exam@iitj.ac.in** |
+| **Portal Support** | In‑portal “Live Chat” (available Mon‑Fri 9 am‑5 pm) |
+
+> **Quick tip:** Keep a copy of the above contacts in your phone. If you encounter any issue with the portal (e.g., fee status not updating), raise a ticket **through the portal → Support → Examination** – the ticket number will be referenced by the Examination Cell.
+
+---
+
+## 5. Checklist – “Ready‑for‑End‑Sem” (use this the week before 24 Nov)
+
+| ✔️ | Item |
+|----|------|
+| ☐ Attendance ≥ 75 % in every course you will appear for |
+| ☐ All semester fees paid and receipt visible in the portal |
+| ☐ End‑Sem registration form submitted & confirmed |
+| ☐ Examination fee cleared |
+| ☐ Hall‑ticket downloaded, printed & checked for correct name, roll‑no, date, and venue |
+| ☐ Valid IIT Jodhpur ID card (not expired) |
+| ☐ Required stationery & allowed calculator ready |
+| ☐ Emergency contact numbers (Examination Cell, Dept. coordinator) saved |
+| ☐ Review of syllabus / exam blueprint (available on the department’s page or the central “Exam‑Blueprint” portal) |
+| ☐ Adequate rest & sleep schedule set for the exam week |
+
+---
+
+## 6. Quick “What to Do If …”
+
+| Situation | Immediate Action |
+|-----------|-------------------|
+| **Attendance shortfall** | Apply for a **“Attendance Relaxation”** to the respective department head (deadline: 2 Nov). |
+| **Fee not reflected** | Check payment receipt; raise a ticket on the portal and inform the Finance Office. |
+| **Hall‑ticket not generated** | Verify that registration is complete; contact Examination Cell with your roll‑no. |
+| **Exam venue change** | The updated venue will be reflected on the hall‑ticket; keep an eye on email alerts 48 hrs before the exam. |
+| **Medical emergency during exam** | Inform the invigilator immediately; a medical certificate will be required for a re‑evaluation request. |
+
+---
+
+## 7. Where to find the detailed syllabus / exam blueprint
+
+- Each department publishes a **“Syllabus / Blueprint”** PDF on its academic page (e.g., `https://iitj.ac.in/department/cse/syllabus`).  
+- The central Examination Office also maintains a consolidated list under **“Exam‑Blueprints”** on the student portal (Login → Academic → Exam Resources).  
+
+Download the relevant PDFs **at least two weeks before the exam** to focus your revision.
+
+---
+
+### Bottom line
+- **End‑Sem exams run from 24 – 30 Nov 2025**.  
+- **Register online by early November**, ensure **≥ 75 % attendance** and **clear all fees**.  
+- Keep your **hall‑ticket and ID** handy, and follow the checklist above to avoid last‑minute surprises.
+
+Good luck, and may your preparation be focused and stress‑free! 🎓

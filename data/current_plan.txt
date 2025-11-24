@@ -1,9 +1,10 @@
-1. Locate the official undergraduate curriculum for the Computer Science and Engineering (CSE) program at IIT Jodhpur (IITJ).  
-2. Identify the list of core and elective courses offered to CSE students, focusing on the presence of a “Signal and Systems” course.  
-3. Review the course catalog or syllabus for the most recent academic year to confirm the course title, code, and description.  
-4. Check whether “Signal and Systems” is listed as a mandatory core course, an elective, or a part of a broader course (e.g., “Communication Systems” or “Digital Signal Processing”).  
-5. Verify the teaching department (e.g., Electrical Engineering, Computer Science) responsible for the course and its relevance to CSE students.  
-6. If the course is not explicitly listed, search for any interdisciplinary or joint programs that may include “Signal and Systems” for CSE students.  
-7. Consult official IITJ resources such as the academic handbook, department webpages, or recent prospectus for confirmation.  
-8. Optionally, contact the CSE department or academic advisor at IITJ via email or phone to obtain a definitive answer.  
-9. Compile the findings into a concise response indicating whether “Signal and Systems” is taught to CSE students at IITJ, including any relevant details (course code, semester, elective/core status).
+1. Identify the official IIT Jodhpur website and locate the Academic Calendar or Examination Section for the current academic year.  
+2. Retrieve the specific dates for the End Semester Examination (start date, end date, and any breaks) for all relevant departments/programs.  
+3. Find the official guidelines and eligibility criteria for students to appear in the End Semester Exams (e.g., attendance requirements, fee payment, form submission).  
+4. Gather information on the exam registration process, including online portals, required documents, and deadlines.  
+5. Collect details on the exam schedule format (date, time, and venue) for each course/module, including any special instructions for lab or practical exams.  
+6. Obtain the syllabus or exam blueprint for each subject as provided by the respective departments or the central examination office.  
+7. Look for information on the examination pattern (e.g., question types, marking scheme, duration) and any updated COVID‑19 or health protocols.  
+8. Find the procedure for result declaration, including expected result release dates, access methods (online portal, email), and steps for re‑evaluation or grievance filing.  
+9. Compile contact information for the Examination Cell/Office and departmental exam coordinators for further queries.  
+10. Summarize all collected information into a clear, concise guide for students preparing for the End Semester Examination at IIT Jodhpur.
