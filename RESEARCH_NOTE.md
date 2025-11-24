@@ -10,7 +10,10 @@ I decided on a linear multi-agent architecture to keep things organized:
 2.  **Researcher**: Then, I go out and find the data using my tools.
 3.  **Critic**: Finally, I put it all together and double-check the quality.
 
-[Figure 1: Architecture Diagram Placeholder - showing User -> Gradio -> Planner -> Researcher -> Critic -> Response]
+<p align="center">
+  <img src="assets/arch.jpg" width="600"><br>
+  <em>Figure 1: Architecture Diagram</em>
+</p>
 
 ### 2.2 Implementation Details
 -   **Orchestrator**: LangGraph (it's great for state management).
@@ -29,7 +32,16 @@ I didn't just build it; I tested it. I created a harness with 6 programmatic tes
 -   **Latency**: How long did I take to think?
 -   **Tool Usage**: Did I actually use the tools I gave myself?
 
-[Figure 2: Latency vs Query Complexity Placeholder]
+<div align="center">
+
+| **Metric**         | **Value**            |
+|--------------------|----------------------|
+| Total Test Cases   | 6                    |
+| Success Rate       | 83.33%               |
+| Average Latency    | ~25.83 seconds       |
+
+</div>
+
 
 ### 4.2 Key Insights
 -   **Decomposition is powerful**: Breaking down the query made a huge difference for multi-part questions.
