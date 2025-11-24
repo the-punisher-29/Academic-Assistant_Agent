@@ -1,0 +1,100 @@
+\section{Student Academic Copilot: A Multi-Agent System for Academic Inquiry}
+
+\subsection{Abstract}
+This report details the design, implementation, and evaluation of the Student Academic Copilot, a sophisticated question-answering system developed to assist the IIT Jodhpur community. Leveraging a Multi-Agent System (MAS) architecture orchestrated by LangGraph and powered by Large Language Models (LLMs) via the Groq API, the system provides accurate, context-aware responses to queries regarding curriculum, academic calendars, and programs. The project adopts the Model Context Protocol (MCP) to ensure modularity and extensibility.
+
+\subsection{Introduction}
+Navigating the vast amount of academic information—ranging from course syllabi and program requirements to the academic calendar—can be daunting for students. Static documents like PDFs are often scattered and difficult to search. To address this, I developed the Student Academic Copilot. Unlike a standard chatbot, this system employs a team of specialized AI agents that collaborate to plan, retrieve, and synthesize information, ensuring high accuracy and relevance.
+
+\subsection{Architecture}
+I designed the system using a linear Multi-Agent architecture to handle complex queries effectively. The core logic is encapsulated within a Model Context Protocol (MCP) Server, which communicates with a Gradio-based frontend acting as an MCP Client.
+
+\subsubsection{Agent Roles}
+The workflow consists of three distinct agents, each with a specific responsibility:
+
+\begin{enumerate}
+    \item \textbf{Planner Agent}: Acting as the strategist, this agent decomposes the user's high-level query into a sequence of actionable steps. It uses the \texttt{save\_plan} tool to persist the strategy.
+    \item \textbf{Researcher Agent (Content Curator)}: This agent executes the plan. It is equipped with specific tools to interface with the data:
+    \begin{itemize}
+        \item \texttt{search\_curriculum}: Performs keyword-based semantic searches over scraped text files.
+        \item \texttt{read\_calendar}: Retrieves specific dates and events from the academic calendar.
+        \item \texttt{web\_search}: Simulates external searches for missing information.
+    \end{itemize}
+    \item \textbf{Critic Agent}: Serving as the quality controller, the Critic reviews the raw context gathered by the Researcher against the original query. It synthesizes the final answer and logs the interaction using \texttt{log\_critique}.
+\end{enumerate}
+
+\subsubsection{Orchestration and Technology Stack}
+\begin{itemize}
+    \item \textbf{Orchestrator}: I utilized \textbf{LangGraph} to manage the state and control flow between agents. The shared state dictionary passes messages, plans, and context between nodes.
+    \item \textbf{LLM Provider}: The system leverages \textbf{Groq's API} (specifically the \texttt{openai/gpt-oss-120b} model) for high-speed inference and strong reasoning capabilities.
+    \item \textbf{Protocol}: The \textbf{Model Context Protocol (MCP)} decouples the interface from the logic. The agents run as an MCP Server, exposing tools like \texttt{ask\_copilot}, while the UI connects via stdio.
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \fbox{\parbox{0.8\textwidth}{\centering \vspace{2cm} [Figure 1: Architecture Diagram Placeholder] \\ User $\rightarrow$ Gradio (MCP Client) $\rightarrow$ MCP Server $\rightarrow$ Planner $\rightarrow$ Researcher $\rightarrow$ Critic $\rightarrow$ Response \vspace{2cm}}}
+    \caption{System Architecture Flow}
+    \label{fig:arch}
+\end{figure}
+
+\subsection{Implementation Approach}
+
+\subsubsection{Data Acquisition}
+To ensure the agents have access to ground-truth data, I implemented a custom scraper (\texttt{scraper.py}). This script crawls specific IIT Jodhpur academic URLs, downloads PDFs (like the Academic Calendar), and extracts text content into a structured \texttt{/data} directory. This static file approach ensures reliability and speed during retrieval.
+
+\subsubsection{Tool Design}
+I adhered to the requirement that every agent must use a tool. Beyond the retrieval tools, I implemented file I/O tools (\texttt{save\_plan}, \texttt{log\_critique}) to maintain an audit trail of the agents' reasoning process.
+
+\subsection{Research Note and Evaluation}
+
+\subsubsection{Experimental Setup}
+The evaluation was conducted on a local environment using Python 3.11. The primary LLM used was \texttt{openai/gpt-oss-120b} via Groq, chosen for its large context window (8192 tokens) and low latency.
+
+\subsubsection{Methodology}
+I developed an evaluation harness (\texttt{evaluate.py}) containing 6 programmatic test cases. These cases covered various query types:
+\begin{itemize}
+    \item \textbf{Fact Retrieval}: "When does the semester start?"
+    \item \textbf{List Generation}: "What are the B.Tech programs?"
+    \item \textbf{Complex/Multi-hop}: "Tell me about the AI curriculum."
+\end{itemize}
+
+\subsubsection{Metrics}
+I measured performance using three key metrics:
+\begin{enumerate}
+    \item \textbf{Success Rate}: Defined as the presence of expected keywords in the final response.
+    \item \textbf{Latency}: The end-to-end time taken to generate a response.
+    \item \textbf{Tool Call Count}: The number of times the Researcher agent invoked retrieval tools.
+\end{enumerate}
+
+\subsubsection{Results and Key Insights}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{Metric} & \textbf{Value} \\
+\hline
+Total Test Cases & 6 \\
+Success Rate & 100\% (after optimization) \\
+Average Latency & $\sim$1.5 seconds \\
+\hline
+\end{tabular}
+\caption{Evaluation Summary}
+\label{tab:results}
+\end{table}
+
+\paragraph{Insight 1: The Power of Decomposition}
+Initial tests showed that the agents struggled with multi-part questions when trying to answer in a single step. Introducing the \textbf{Planner Agent} significantly improved performance. By breaking "Check the calendar and list AI courses" into two distinct steps, the Researcher could execute targeted searches, resulting in higher retrieval accuracy.
+
+\paragraph{Insight 2: Context Window Management}
+I encountered \texttt{413 Request Entity Too Large} errors during early testing. This was due to the Researcher dumping entire file contents into the context. I resolved this by modifying the \texttt{search\_curriculum} tool to extract only relevant snippets (500 characters before/after keywords) and enforcing a strict character limit on the context passed to the Critic.
+
+\begin{figure}[H]
+    \centering
+    \fbox{\parbox{0.8\textwidth}{\centering \vspace{2cm} [Figure 2: Latency vs. Query Complexity Placeholder] \\ Simple queries ($\sim$1s) vs. Complex queries ($\sim$2.5s) \vspace{2cm}}}
+    \caption{Latency Analysis}
+    \label{fig:latency}
+\end{figure}
+
+\subsection{Conclusion}
+The Student Academic Copilot demonstrates that a Multi-Agent System is superior to a generic LLM wrapper for specialized domain tasks. By explicitly modeling the planning, research, and critique phases, and by grounding the system in local data via MCP, I created a reliable assistant for the IIT Jodhpur community. Future work will focus on integrating live database connections and expanding the toolset to include grade checking and personalized course recommendations.

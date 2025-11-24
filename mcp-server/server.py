@@ -9,7 +9,6 @@ from agents.orchestrator import run_chat, planner_agent, researcher_agent, criti
 from agents.tools import search_curriculum, read_calendar
 from langchain_core.messages import HumanMessage
 
-# Create an MCP server
 mcp = FastMCP("StudentAcademicCopilot")
 
 @mcp.tool()
